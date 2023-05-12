@@ -1,0 +1,2162 @@
+﻿Log file open, 11/08/21 05:24:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ToonTanks
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.611381
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 3 2200G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.11.07-22.25.05:641][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.07-22.25.05:641][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.07-22.25.05:642][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.07-22.25.05:642][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.07-22.25.05:642][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.07-22.25.05:642][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.07-22.25.05:642][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.07-22.25.05:642][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.07-22.25.05:642][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.07-22.25.05:642][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.07-22.25.05:642][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.11.07-22.25.05:642][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.11.07-22.25.05:773][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.07-22.25.05:773][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.07-22.25.05:774][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.07-22.25.05:859][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.07-22.25.05:893][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.07-22.25.05:906][  0]LogHAL: Display: Platform has ~ 8 GB [8515350528 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.07-22.25.05:906][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.07-22.25.05:915][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.07-22.25.05:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.07-22.25.05:916][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.07-22.25.05:949][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.07-22.25.05:949][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.07-22.25.05:949][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.07-22.25.05:949][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.11.07-22.25.05:949][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Editor.ini]
+[2021.11.07-22.25.06:005][  0]LogInit: Computer: DESKTOP-E5BTHVJ
+[2021.11.07-22.25.06:005][  0]LogInit: User: eriko
+[2021.11.07-22.25.06:005][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.07-22.25.06:005][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.07-22.25.06:005][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.11.07-22.25.06:005][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.07-22.25.06:005][  0]LogMemory: Process Physical Memory: 139.51 MB used, 139.51 MB peak
+[2021.11.07-22.25.06:005][  0]LogMemory: Process Virtual Memory: 110.89 MB used, 110.89 MB peak
+[2021.11.07-22.25.06:005][  0]LogMemory: Physical Memory: 5136.88 MB used,  2983.99 MB free, 8120.87 MB total
+[2021.11.07-22.25.06:005][  0]LogMemory: Virtual Memory: 134207408.00 MB used,  10317.87 MB free, 134217728.00 MB total
+[2021.11.07-22.25.06:014][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.07-22.25.08:771][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.07-22.25.08:831][  0]LogInit: Using OS detected language (en-US).
+[2021.11.07-22.25.08:831][  0]LogInit: Using OS detected locale (en-ID).
+[2021.11.07-22.25.09:190][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.07-22.25.11:869][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.07-22.25.12:185][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.07-22.25.13:319][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.07-22.25.13:319][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.07-22.25.19:375][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.11.07-22.25.19:459][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.07-22.25.19:459][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.07-22.25.19:459][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.07-22.25.19:459][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.07-22.25.19:599][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.11.07-22.25.19:599][  0]LogD3D11RHI:       1977/0/4060 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.07-22.25.19:601][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.07-22.25.19:601][  0]LogD3D11RHI:       0/0/4060 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.07-22.25.19:601][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.11.07-22.25.19:601][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050
+[2021.11.07-22.25.19:601][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.07-22.25.19:601][  0]LogD3D11RHI:     DeviceId    : 1c81
+[2021.11.07-22.25.19:601][  0]LogD3D11RHI:     SubSysId    : 11c010de
+[2021.11.07-22.25.19:601][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.07-22.25.19:601][  0]LogD3D11RHI:     DedicatedVideoMemory : 2073288704 bytes
+[2021.11.07-22.25.19:602][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.07-22.25.19:602][  0]LogD3D11RHI:     SharedSystemMemory : 4257675264 bytes
+[2021.11.07-22.25.19:602][  0]LogD3D11RHI:     AdapterLuid : 0 40080
+[2021.11.07-22.25.19:608][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.07-22.25.19:608][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.07-22.25.19:608][  0]LogWindows: EnumDisplayDevices:
+[2021.11.07-22.25.19:608][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2021.11.07-22.25.19:608][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.11.07-22.25.19:609][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.11.07-22.25.19:609][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.11.07-22.25.19:609][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.11.07-22.25.19:609][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.11.07-22.25.19:609][  0]LogD3D11RHI:   Driver Version: 496.13 (internal:30.0.14.9613, unified:496.13)
+[2021.11.07-22.25.19:609][  0]LogD3D11RHI:      Driver Date: 10-6-2021
+[2021.11.07-22.25.19:609][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2021.11.07-22.25.19:609][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.11.07-22.25.19:609][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050
+[2021.11.07-22.25.19:609][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.07-22.25.19:609][  0]LogD3D11RHI:     DeviceId    : 1c81
+[2021.11.07-22.25.19:609][  0]LogD3D11RHI:     SubSysId    : 11c010de
+[2021.11.07-22.25.19:609][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.07-22.25.19:609][  0]LogD3D11RHI:     DedicatedVideoMemory : 2073288704 bytes
+[2021.11.07-22.25.19:609][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.07-22.25.19:609][  0]LogD3D11RHI:     SharedSystemMemory : 4257675264 bytes
+[2021.11.07-22.25.19:609][  0]LogD3D11RHI:     AdapterLuid : 0 40080
+[2021.11.07-22.25.19:683][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.07-22.25.19:684][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.07-22.25.19:684][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.07-22.25.20:091][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.07-22.25.20:464][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.07-22.25.22:217][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.07-22.25.22:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.07-22.25.22:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.07-22.25.22:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.07-22.25.22:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.07-22.25.22:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.07-22.25.22:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.07-22.25.22:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.07-22.25.22:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.07-22.25.22:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.07-22.25.22:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.07-22.25.22:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.07-22.25.22:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.07-22.25.23:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.07-22.25.23:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.07-22.25.23:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.07-22.25.23:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.07-22.25.23:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.07-22.25.23:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.07-22.25.23:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.07-22.25.23:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.07-22.25.23:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.07-22.25.23:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.07-22.25.23:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.07-22.25.23:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.07-22.25.23:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.07-22.25.23:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.07-22.25.23:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.07-22.25.24:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.07-22.25.24:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.07-22.25.24:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.07-22.25.24:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.07-22.25.24:165][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.07-22.25.24:444][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.07-22.25.25:298][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.11.07-22.25.26:613][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.07-22.25.26:662][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (D:/IKO Tutorial/Udemy/ToonTanks/Intermediate/Shaders/WorkingDirectory/2192/).
+[2021.11.07-22.25.26:663][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/eriko/AppData/Local/Temp/UnrealShaderWorkingDir/AA29B4D6459F3A3598293AB5B9094088/'.
+[2021.11.07-22.25.26:690][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.07-22.25.26:690][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.07-22.25.26:690][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.07-22.25.35:344][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.07-22.25.35:774][  0]LogDerivedDataCache: Loaded boot cache 0.43s 94MB C:/Users/eriko/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.07-22.25.35:774][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/eriko/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.11.07-22.25.35:993][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/IKO Tutorial/Udemy/ToonTanks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.07-22.25.35:993][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.07-22.25.35:993][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/IKO Tutorial/Udemy/ToonTanks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.07-22.25.35:993][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.07-22.25.36:190][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.07-22.25.36:190][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.07-22.25.36:190][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.07-22.25.36:313][  0]LogDerivedDataCache: Speed tests for C:/Users/eriko/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.12 seconds
+[2021.11.07-22.25.36:313][  0]LogDerivedDataCache: Display: Performance to C:/Users/eriko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.22ms. RandomReadSpeed=10.65MBs, RandomWriteSpeed=27.84MBs. Assigned SpeedClass 'Local'
+[2021.11.07-22.25.36:325][  0]LogDerivedDataCache: Using Local data cache path C:/Users/eriko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.07-22.25.36:325][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.07-22.25.36:325][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.07-22.25.36:775][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.07-22.25.37:224][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.07-22.25.39:180][  0]LogAssetRegistry: FAssetRegistry took 0.0104 seconds to start up
+[2021.11.07-22.25.52:062][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.07-22.25.52:062][  0]LogInit: Active device profile: [0000026F31ED2C00][0000026F2FF22240 49] Windows
+[2021.11.07-22.25.52:062][  0]LogInit: Profiles: [0000026F31ED2C00][0000026F2FF22240 49] Windows, [0000026F31E71C00][0000026F27DBC3C0 49] WindowsNoEditor, [0000026F31ED3B00][0000026F27DC0540 49] WindowsServer, [0000026F31E72700][0000026F27DC46C0 49] WindowsClient, [0000026F31ED1700][0000026F27DB8800 49] IOS, [0000026F31E72E00][0000026F27DC8940 49] iPadAir, [0000026F31ED1100][0000026F27DCCA80 49] iPadAir2, [0000026F31E21B00][0000026F27CA6D00 49] IPadPro, [0000026F31E21C00][0000026F27DD0D40 49] iPadAir3, [0000026F31E73200][0000026F27CAAEC0 49] iPadAir4, [0000026F31E22B00][0000026F27CAF040 49] iPadMini2, [0000026F31E70400][0000026F27CB31C0 49] iPadMini3, [0000026F31E23700][0000026F27CB7340 49] iPadMini4, [0000026F31E72F00][0000026F27CBB4C0 49] iPadMini5, [0000026F31E31300][0000026F27CC3780 49] iPhone6, [0000026F31E31400][0000026F27CBF7C0 49] iPodTouch6, [0000026F31ED2400][0000026F27BADA80 49] iPhone7, [0000026F31ED1600][0000026F27CC7AC0 49] iPodTouch7, [0000026F31E22800][0000026F27BB00C0 49] iPhone5S, [0000026F31ED3800][0000026F27BB4240 49] iPhone6Plus, [0000026F31E23B00][0000026F27BB83C0 49] iPhone6S, [0000026F31ED0800][0000026F27BBC540 49] iPhone6SPlus, [0000026F31E30200][0000026F27BC06C0 49] iPhone7Plus, [0000026F31E22600][0000026F27BC4840 49] iPhoneSE, [0000026F31E31000][0000026F27CA2980 49] iPhone8, [0000026F31E20700][0000026F27BC8AC0 49] iPhone8Plus, [0000026F31E30400][0000026F27BCCC00 49] iPhoneX, [0000026F31E23D00][0000026F27BD0D40 49] iPhoneXS, [0000026F31E33000][0000026F2793AEC0 49] iPhoneXSMax, [0000026F31E20F00][0000026F2793F040 49] iPhoneXR, [0000026F31E30D00][0000026F279431C0 49] iPhone11, [0000026F31E20900][0000026F27947340 49] iPhone11Pro, [0000026F31E32800][0000026F2794B4C0 49] iPhone11ProMax, [0000026F31E21500][0000026F2794F640 49] iPhoneSE2, [0000026F31E30300][0000026F279537C0 49] iPhone12Mini, [0000026F31E21E00][0000026F27957940 49] iPhone12, [0000026F31ED0600][0000026F2795BAC0 49] iPhone12Pro, [0000026F31E23100][0000026F2795E0C0 49] iPhone12ProMax, [0000026F31ED2200][0000026F27962240 49] iPadPro105, [0000026F31E21A00][0000026F279663C0 49] iPadPro129, [0000026F31ED2B00][0000026F2796A540 49] iPadPro97, [0000026F31E23200][0000026F2796E6C0 49] iPadPro2_129, [0000026F31ED0F00][0000026F27972840 49] iPad5, [0000026F31E21100][0000026F279769C0 49] iPad6, [0000026F31ED0C00][0000026F2797AB40 49] iPad7, [0000026F31E20400][0000026F27936C80 49] iPad8, [0000026F31ED0200][0000026F2797EDC0 49] iPadPro11, [0000026F31E22E00][0000026F2FC88F00 49] iPadPro2_11, [0000026F31ED1E00][0000026F2FC91080 49] iPadPro3_129, [0000026F31E22A00][0000026F2FC95200 49] iPadPro4_129, [0000026F31ED0400][0000026F2FC99380 49] AppleTV, [0000026F31E20D00][0000026F2FC9D500 49] AppleTV4K, [0000026F31ED0D00][0000026F2FCA1680 49] TVOS, [0000026F31E22300][0000026F2FCA5800 49] Mac, [0000026F31ED2900][0000026F2FCA9980 49] MacClient, [0000026F31E21400][0000026F2FCADB00 49] MacNoEditor, [0000026F31ED0B00][0000026F2FCB0100 49] MacServer, [0000026F31E23E00][0000026F2FCB4280 49] Linux, [0000026F31ED2500][0000026F2FCB8400 49] LinuxAArch64, [0000026F31E22400][0000026F2FCBC580 49] LinuxNoEditor, [0000026F31ED1D00][0000026F2FCC0700 49] LinuxAArch64NoEditor, [0000026F31E21000][0000026F2FCC4880 49] LinuxClient, [0000026F31ED1200][0000026F2FCC8A00 49] LinuxAArch64Client, [0000026F31E20500][0000026F2FCCCB80 49] LinuxServer, [0000026F31ED3700][0000026F2FCD0D00 49] LinuxAArch64Server, [0000026F31E23F00][0000026F2FC8CE40 49] Android, [0000026F31ED2700][0000026F2FCD4F80 49] Android_Low, [0000026F31E20C00][0000026F3091F0C0 49] Android_Mid, [0000026F31ED3600][0000026F30927240 49] Android_High, [0000026F31E20B00][0000026F3092B3C0 49] Android_Default, [0000026F31ED1900][0000026F3092F540 49] Android_Adreno4xx, [0000026F31E21300][0000026F0EC316C0 49] Android_Adreno5xx_Low, [0000026F31ED1000][0000026F0EC35840 49] Android_Adreno5xx, [0000026F31E22500][0000026F0EC399C0 49] Android_Adreno6xx, [0000026F31ED1300][0000026F0EC3DB40 49] Android_Adreno6xx_Vulkan, [0000026F31E23A00][0000026F0EC40140 49] Android_Mali_T6xx, [0000026F31ED0900][0000026F0EC442C0 49] Android_Mali_T7xx, [0000026F31E21600][0000026F0EC48440 49] Android_Mali_T8xx, [0000026F31ED0500][0000026F0EC4C5C0 49] Android_Mali_G71, [0000026F31E22100][0000026F0EC50740 49] Android_Mali_G72, [0000026F31ED2300][0000026F0EC548C0 49] Android_Mali_G72_Vulkan, [0000026F31E70A00][0000026F0EC58A40 49] Android_Mali_G76, [0000026F31E33900][0000026F0EC5CBC0 49] Android_Mali_G76_Vulkan, [0000026F31E71D00][0000026F30932D40 49] Android_Mali_G77, [0000026F31E32200][0000026F30936EC0 49] Android_Mali_G77_Vulkan, [0000026F31E73800][0000026F30923000 49] Android_Mali_G78, [0000026F31E30C00][0000026F3093B140 49] Android_Mali_G78_Vulkan, [0000026F31E71E00][0000026F3093F280 49] Android_Mali_G710, [0000026F31E30E00][0000026F309433C0 49] Android_Mali_G710_Vulkan, [0000026F31E70300][0000026F3094B540 49] Android_Vulkan_SM5, [0000026F31E32900][0000026F3094F6C0 49] Android_PowerVR_G6xxx, [0000026F31E72300][0000026F30953840 49] Android_PowerVR_GT7xxx, [0000026F31E30600][0000026F309579C0 49] Android_PowerVR_GE8xxx, [0000026F31E70600][0000026F3095BB40 49] Android_PowerVR_GM9xxx, [0000026F31E32D00][0000026F3095E140 49] Android_PowerVR_GM9xxx_Vulkan, [0000026F31E72600][0000026F309622C0 49] Android_TegraK1, [0000026F31E33200][0000026F30966440 49] Android_Unknown_Vulkan, [0000026F31E72200][0000026F3096A5C0 49] Lumin, [0000026F31E31700][0000026F3096E740 49] Lumin_Desktop, [0000026F31E73700][0000026F309728C0 49] HoloLens, 
+[2021.11.07-22.25.54:439][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.07-22.25.54:439][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.07-22.25.54:439][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.07-22.25.54:439][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.07-22.25.54:451][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.07-22.25.55:266][  0]LogNetVersion: ToonTanks 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3806074785)
+[2021.11.07-22.26.13:119][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.07-22.26.14:374][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.07-22.26.14:603][  0]LogUObjectArray: 17174 objects as part of root set at end of initial load.
+[2021.11.07-22.26.14:603][  0]LogUObjectAllocator: 4300288 out of 0 bytes used by permanent object pool.
+[2021.11.07-22.26.14:606][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.07-22.26.21:120][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D722489547B6E5A2710B94981FD3768E | Instance: F48C04BB4AFD1EEBB2322D9ED24202D6 (DESKTOP-E5BTHVJ-2192).
+[2021.11.07-22.26.22:297][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.07-22.26.22:298][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.07-22.26.24:843][  0]LogPython: Using Python 3.7.7
+[2021.11.07-22.26.30:289][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.07-22.26.30:359][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.07-22.26.33:513][  0]SourceControl: Source control is disabled
+[2021.11.07-22.26.33:513][  0]SourceControl: Source control is disabled
+[2021.11.07-22.26.33:701][  0]SourceControl: Source control is disabled
+[2021.11.07-22.26.33:790][  0]SourceControl: Source control is disabled
+[2021.11.07-22.26.33:908][  0]SourceControl: Source control is disabled
+[2021.11.07-22.26.33:991][  0]LogUProjectInfo: Found projects:
+[2021.11.07-22.26.36:600][  0]LogOpenImageDenoise: OIDN starting up
+[2021.11.07-22.26.38:401][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.07-22.26.38:669][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.07-22.26.38:669][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.07-22.26.40:739][  0]LogCollectionManager: Loaded 0 collections in 0.001672 seconds
+[2021.11.07-22.26.41:229][  0]LogFileCache: Scanning file cache for directory 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Collections/' took 0.02s
+[2021.11.07-22.26.41:229][  0]LogFileCache: Scanning file cache for directory 'D:/IKO Tutorial/Udemy/ToonTanks/Content/Developers/eriko/Collections/' took 0.01s
+[2021.11.07-22.26.41:229][  0]LogFileCache: Scanning file cache for directory 'D:/IKO Tutorial/Udemy/ToonTanks/Content/Collections/' took 0.00s
+[2021.11.07-22.26.41:229][  0]LogOcInput: OculusInput pre-init called
+[2021.11.07-22.26.42:969][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.07-22.26.42:969][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.07-22.26.44:615][  0]LogEngine: Initializing Engine...
+[2021.11.07-22.26.44:837][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.11.07-22.26.44:851][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.07-22.26.44:861][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.07-22.26.44:931][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.011 s
+[2021.11.07-22.26.45:903][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.07-22.26.47:024][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.07-22.26.47:135][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.07-22.26.47:211][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.11.07-22.26.47:282][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.11.07-22.26.47:340][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.07-22.26.47:340][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.07-22.26.47:362][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.07-22.26.47:362][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.07-22.26.47:362][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.07-22.26.47:362][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.07-22.26.47:362][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.07-22.26.47:362][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.07-22.26.47:362][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.07-22.26.47:367][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.07-22.26.47:392][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.07-22.26.47:392][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.07-22.26.47:392][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.07-22.26.47:392][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.07-22.26.47:567][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.07-22.26.47:567][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.07-22.26.47:629][  0]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2021.11.07-22.26.47:664][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.07-22.26.47:725][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.07-22.26.47:725][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.07-22.26.47:727][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.07-22.26.47:728][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.07-22.26.47:728][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.07-22.26.47:730][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.07-22.26.47:731][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.07-22.26.47:731][  0]LogInit: FAudioDevice initialized.
+[2021.11.07-22.26.47:746][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.07-22.26.47:763][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.07-22.26.47:763][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.07-22.26.47:882][  0]LogDerivedDataCache: Saved boot cache 0.12s 99MB C:/Users/eriko/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.07-22.26.47:883][  0]LogInit: Texture streaming: Enabled
+[2021.11.07-22.26.48:134][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2021.11.07-22.26.48:228][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.07-22.26.48:245][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.07-22.26.48:270][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.07-22.26.49:735][  0]LogInit: Transaction tracking system initialized
+[2021.11.07-22.26.51:835][  0]BlueprintLog: New page: Editor Load
+[2021.11.07-22.26.55:568][  0]LocalizationService: Localization service is disabled
+[2021.11.07-22.26.56:780][  0]TimingProfiler: Initialize
+[2021.11.07-22.26.56:782][  0]TimingProfiler: OnSessionChanged
+[2021.11.07-22.26.56:783][  0]LoadingProfiler: Initialize
+[2021.11.07-22.26.56:783][  0]LoadingProfiler: OnSessionChanged
+[2021.11.07-22.26.56:783][  0]NetworkingProfiler: Initialize
+[2021.11.07-22.26.56:784][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.07-22.26.56:784][  0]MemoryProfiler: Initialize
+[2021.11.07-22.26.56:784][  0]MemoryProfiler: OnSessionChanged
+[2021.11.07-22.27.05:523][  0]LogFileCache: Scanning file cache for directory 'D:/IKO Tutorial/Udemy/ToonTanks/Content/' took 0.06s
+[2021.11.07-22.27.05:523][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.07-22.27.05:524][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.07-22.27.15:836][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.07-22.27.15:837][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.07-22.27.15:837][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.07-22.27.16:522][  0]SourceControl: Source control is disabled
+[2021.11.07-22.27.16:522][  0]LogUnrealEdMisc: Loading editor; pre map load, took 223.106
+[2021.11.07-22.27.16:617][  0]Cmd: MAP LOAD FILE="D:/IKO Tutorial/Udemy/ToonTanks/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.07-22.27.16:711][  0]LightingResults: New page: Lighting Build
+[2021.11.07-22.27.17:136][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-22.27.17:262][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-22.27.17:492][  0]MapCheck: New page: Map Check
+[2021.11.07-22.27.17:492][  0]LightingResults: New page: Lighting Build
+[2021.11.07-22.27.17:939][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.07-22.27.18:582][  0]LogUObjectHash: Compacting FUObjectHashTables data took  40.67ms
+[2021.11.07-22.27.21:515][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2021.11.07-22.27.21:516][  0]LogAIModule: Creating AISystem for world Main
+[2021.11.07-22.27.22:271][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.07-22.27.22:463][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.11.07-22.27.22:499][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.07-22.27.22:517][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 18.145ms to complete.
+[2021.11.07-22.27.22:517][  0]LogFileHelpers: Loading map 'Main' took 5.951
+[2021.11.07-22.27.25:183][  0]LogUnrealEdMisc: Total Editor Startup Time, took 231.766
+[2021.11.07-22.27.27:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.07-22.27.27:822][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.07-22.27.27:831][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.07-22.27.27:841][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.07-22.27.28:514][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0136 seconds. Added 3824 classes and 930 folders.
+[2021.11.07-22.27.28:952][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.07-22.27.29:360][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.07-22.27.29:361][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.29:361][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.07-22.27.29:547][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.29:547][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.11.07-22.27.29:547][  0]LogPakFile: OnPakFileMounted2Time == 0.186021
+[2021.11.07-22.27.29:911][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.07-22.27.29:911][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.29:911][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.07-22.27.29:911][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.29:911][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.11.07-22.27.29:911][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.11.07-22.27.30:053][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.07-22.27.30:053][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.30:053][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.07-22.27.30:053][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.30:053][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.11.07-22.27.30:053][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.07-22.27.30:214][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.07-22.27.30:214][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.30:214][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.07-22.27.30:214][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.30:214][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.11.07-22.27.30:214][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.11.07-22.27.30:389][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.07-22.27.30:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.30:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.07-22.27.30:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.30:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.11.07-22.27.30:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.11.07-22.27.30:397][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.07-22.27.30:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.30:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.07-22.27.30:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.30:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.11.07-22.27.30:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.11.07-22.27.30:569][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.07-22.27.30:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.30:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.07-22.27.30:569][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.30:569][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.11.07-22.27.30:569][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.11.07-22.27.30:693][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.07-22.27.30:693][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.30:693][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.07-22.27.30:693][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.30:693][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.11.07-22.27.30:693][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.11.07-22.27.30:782][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.07-22.27.30:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.30:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.07-22.27.30:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.30:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.11.07-22.27.30:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.07-22.27.30:833][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.07-22.27.30:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.30:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.07-22.27.30:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.30:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.11.07-22.27.30:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.11.07-22.27.30:841][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.07-22.27.30:841][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.30:841][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.07-22.27.30:841][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.30:841][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.11.07-22.27.30:841][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.11.07-22.27.30:849][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.07-22.27.30:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.30:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.07-22.27.30:849][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.30:849][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.11.07-22.27.30:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.11.07-22.27.30:942][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.07-22.27.30:942][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.30:942][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.07-22.27.30:942][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.30:942][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.11.07-22.27.30:942][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.11.07-22.27.30:951][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.07-22.27.30:951][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.30:951][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.07-22.27.30:951][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.30:951][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.11.07-22.27.30:951][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.11.07-22.27.31:051][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.07-22.27.31:051][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.31:051][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.07-22.27.31:051][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.31:051][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.11.07-22.27.31:051][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.11.07-22.27.31:232][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.07-22.27.31:232][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.31:232][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.07-22.27.31:232][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.31:232][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.11.07-22.27.31:233][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.11.07-22.27.31:328][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.07-22.27.31:328][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.31:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.07-22.27.31:329][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.31:329][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.11.07-22.27.31:329][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.11.07-22.27.31:441][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.07-22.27.31:441][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.31:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.07-22.27.31:441][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.31:441][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.11.07-22.27.31:441][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.11.07-22.27.31:541][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.07-22.27.31:541][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.31:541][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.07-22.27.31:541][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.31:541][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.11.07-22.27.31:542][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.11.07-22.27.31:652][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.07-22.27.31:652][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.31:652][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.07-22.27.31:652][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.31:652][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.11.07-22.27.31:652][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.11.07-22.27.31:777][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.07-22.27.31:777][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.31:777][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.07-22.27.31:777][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.31:777][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.11.07-22.27.31:777][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.07-22.27.31:892][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.07-22.27.31:892][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.31:892][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.07-22.27.31:892][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.31:892][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.11.07-22.27.31:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.11.07-22.27.32:024][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.07-22.27.32:024][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.32:024][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.07-22.27.32:024][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.32:024][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.11.07-22.27.32:024][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.11.07-22.27.32:103][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.07-22.27.32:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.32:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.07-22.27.32:104][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.32:104][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.11.07-22.27.32:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.11.07-22.27.32:115][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.07-22.27.32:115][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.32:115][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.07-22.27.32:115][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.32:115][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.11.07-22.27.32:115][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.11.07-22.27.32:265][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.07-22.27.32:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.07-22.27.32:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.07-22.27.32:265][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.07-22.27.32:265][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.11.07-22.27.32:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.11.07-22.27.35:752][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.11.07-22.27.36:458][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.11.07-22.27.45:903][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.11.07-22.27.47:295][  0]LogSlate: Took 0.036362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.07-22.27.47:441][  0]LogSlate: Took 0.063868 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.07-22.27.47:544][  0]LogSlate: Took 0.076202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.07-22.27.47:859][  0]LogSlate: Took 0.030116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.07-22.27.49:521][  0]LogRenderer: Reallocating scene render targets to support 1208x608 Format 10 NumSamples 1 (Frame:1).
+[2021.11.07-22.27.53:735][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.11.07-22.27.53:735][  0]LogLoad: (Engine Initialization) Total time: 260.32 seconds
+[2021.11.07-22.27.53:735][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.07-22.27.55:829][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.07-22.27.57:148][  1]LogAssetRegistry: Asset discovery search completed in 137.9699 seconds
+[2021.11.07-22.27.57:704][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.039591 seconds (updated 0 objects)
+[2021.11.07-22.27.58:595][  2]LogSlate: Took 0.039954 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.07-22.29.30:970][452]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.07-22.29.32:766][623]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawn/BP_PawnTank.BP_PawnTank
+[2021.11.07-22.29.34:178][623]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.11.07-22.29.38:998][699]LogSlate: Window 'BP_PawnTank' being destroyed
+[2021.11.07-22.29.39:772][771]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-22.29.39:772][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-22.29.40:112][771]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawn/BP_PawnTank.BP_PawnTank
+[2021.11.07-22.29.41:314][771]LogSlate: Took 0.020235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.07-22.29.43:817][995]LogSlate: Window 'BP_PawnTank' being destroyed
+[2021.11.07-22.29.44:068][ 19]LogSlate: Took 0.022786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.07-22.29.56:343][295]BlueprintLog: New page: Compile BP_PawnTank
+[2021.11.07-22.29.56:630][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.11.07-22.37.54:185][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.11.07-22.37.54:227][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.11.07-22.37.54:447][700]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Main_Auto12E2796204DCB820377C4A792EA1CF157.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2021.11.07-22.37.54:490][700]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.330
+[2021.11.07-22.37.54:490][700]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.330
+[2021.11.07-22.37.54:491][700]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawn/BP_PawnTank] ([2] browsable assets)...
+[2021.11.07-22.37.54:545][700]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawn/BP_PawnTank.BP_PawnTank]
+[2021.11.07-22.37.54:592][700]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawn/BP_PawnTank.BP_PawnTank_C]
+[2021.11.07-22.37.54:592][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawn/BP_PawnTank]
+[2021.11.07-22.37.54:592][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawn/BP_PawnTank" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawn/BP_PawnTank_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.11.07-22.37.54:648][700]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/BP_PawnTank_Auto16D35691F421F3E644CF7AE9B20B18503.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawn/BP_PawnTank_Auto1.uasset'
+[2021.11.07-22.37.54:650][700]LogFileHelpers: Auto-saving content packages took 0.159
+[2021.11.07-22.57.30:443][441]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.11.07-22.57.30:918][441]Candidate modules for hot reload:
+[2021.11.07-22.57.30:918][441]  ToonTanks
+[2021.11.07-22.57.30:930][441]Launching UnrealBuildTool... [E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,1529 ToonTanksEditor Win64 Development -Project="D:/IKO Tutorial/Udemy/ToonTanks/ToonTanks.uproject" "D:/IKO Tutorial/Udemy/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.11.07-22.57.31:308][441]Warning: Starting HotReload took  0.9s.
+[2021.11.07-22.58.47:335][667]CompilerResultsLog: New page: Compilation - Nov 8, 2021, 12:58:47 PM
+[2021.11.07-22.58.47:395][667]CompilerResultsLog: Creating makefile for ToonTanksEditor (Build.version is newer)
+[2021.11.07-22.58.47:396][667]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.11.07-22.58.47:396][667]CompilerResultsLog:   Running UnrealHeaderTool "D:\IKO Tutorial\Udemy\ToonTanks\ToonTanks.uproject" "D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\eriko\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.11.07-22.58.47:396][667]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.11.07-22.58.47:396][667]CompilerResultsLog: Error: D:/IKO Tutorial/Udemy/ToonTanks/Source/ToonTanks/Tank.h(33)  : Error: Member variable declaration: 'Speed' cannot be defined in 'Tank' as it is already defined in scope 'Class /Script/ToonTanks.BasePawn' (shadowing is not allowed)
+[2021.11.07-22.58.47:396][667]LogMainFrame: MainFrame: Module compiling took 76.945 seconds
+[2021.11.07-22.58.47:486][667]Warning: HotReload failed, recompile failed
+[2021.11.07-23.00.20:181][295]Candidate modules for hot reload:
+[2021.11.07-23.00.20:181][295]  ToonTanks
+[2021.11.07-23.00.20:181][295]Launching UnrealBuildTool... [E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,0367 ToonTanksEditor Win64 Development -Project="D:/IKO Tutorial/Udemy/ToonTanks/ToonTanks.uproject" "D:/IKO Tutorial/Udemy/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.11.07-23.00.20:186][295]Warning: Starting HotReload took  0.1s.
+[2021.11.07-23.03.20:827][ 31]BlueprintLog: New page: Compile BP_PawnTank
+[2021.11.07-23.03.24:638][ 31]LogUObjectHash: Compacting FUObjectHashTables data took  58.03ms
+[2021.11.07-23.08.11:153][950]CompilerResultsLog: New page: Compilation - Nov 8, 2021, 1:08:11 PM
+[2021.11.07-23.08.11:179][950]CompilerResultsLog: Creating makefile for ToonTanksEditor (Build.version is newer)
+[2021.11.07-23.08.11:183][950]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:   Running UnrealHeaderTool "D:\IKO Tutorial\Udemy\ToonTanks\ToonTanks.uproject" "D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\eriko\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.11.07-23.08.11:183][950]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.11.07-23.08.11:183][950]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 6,8409311 seconds
+[2021.11.07-23.08.11:183][950]CompilerResultsLog: Building ToonTanksEditor...
+[2021.11.07-23.08.11:183][950]CompilerResultsLog: Using Visual Studio 2019 14.29.30136 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.11.07-23.08.11:183][950]CompilerResultsLog: Building 11 actions with 4 processes...
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:   [1/11] Default.rc2
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:   [2/11] SharedPCH.Engine.ShadowErrors.cpp
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:   [3/11] ToonTanks.cpp
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:   [4/11] BasePawn.cpp
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:   [5/11] ToonTanks.init.gen.cpp
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:   [6/11] BasePawn.gen.cpp
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:   [7/11] Tank.gen.cpp
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:   [8/11] Tank.cpp
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:   [9/11] UE4Editor-ToonTanks-0367.lib
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:      Creating library D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0367.lib and object D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0367.exp
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:   [10/11] UE4Editor-ToonTanks-0367.dll
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:      Creating library D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0367.suppressed.lib and object D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0367.suppressed.exp
+[2021.11.07-23.08.11:183][950]CompilerResultsLog:   [11/11] ToonTanksEditor.target
+[2021.11.07-23.08.11:183][950]CompilerResultsLog: Total time in Parallel executor: 458,42 seconds
+[2021.11.07-23.08.11:183][950]CompilerResultsLog: Total execution time: 470,75 seconds
+[2021.11.07-23.08.11:184][950]LogMainFrame: MainFrame: Module compiling took 471.007 seconds
+[2021.11.07-23.08.12:242][950]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.11.07-23.08.12:264][950]LogClass: Could not find existing class Tank in package /Script/ToonTanks for HotReload, assuming new class
+[2021.11.07-23.08.12:365][950]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.11.07-23.08.12:486][950]LogHotReload: Re-instancing Tank after hot-reload.
+[2021.11.07-23.08.12:586][950]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0016 seconds. Added 2 classes and 2 folders.
+[2021.11.07-23.08.12:892][950]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.11.07-23.08.13:337][950]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.1031 seconds. Added 3824 classes and 930 folders.
+[2021.11.07-23.08.13:379][950]Display: HotReload took 473.3s.
+[2021.11.07-23.09.24:682][973]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.11.07-23.09.24:814][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.11.07-23.09.25:295][973]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Main_Auto279A1AB45418CB3E90F28108744700F8D.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2021.11.07-23.09.25:388][973]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.845
+[2021.11.07-23.09.25:400][973]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.845
+[2021.11.07-23.09.25:404][973]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawn/BP_PawnTank] ([2] browsable assets)...
+[2021.11.07-23.09.25:489][973]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawn/BP_PawnTank.BP_PawnTank]
+[2021.11.07-23.09.25:489][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawn/BP_PawnTank]
+[2021.11.07-23.09.25:489][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawn/BP_PawnTank" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawn/BP_PawnTank_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.11.07-23.09.25:703][973]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/BP_PawnTank_Auto2E6C78AC94ED8CC66BCE4A39E3B48811F.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawn/BP_PawnTank_Auto2.uasset'
+[2021.11.07-23.09.25:704][973]LogFileHelpers: Auto-saving content packages took 0.301
+[2021.11.07-23.18.07:758][533]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.07-23.18.07:938][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.07-23.18.07:938][533]PIE: New page: PIE session: Main (Nov 8, 2021, 1:18:07 PM)
+[2021.11.07-23.18.08:121][533]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.07-23.18.08:178][533]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.07-23.18.08:238][533]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.11.07-23.18.08:641][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.401837s)
+[2021.11.07-23.18.09:318][533]LogAIModule: Creating AISystem for world Main
+[2021.11.07-23.18.09:386][533]LogPlayLevel: PIE: World Init took: (0.734711s)
+[2021.11.07-23.18.09:386][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (1.156718s)
+[2021.11.07-23.18.09:493][533]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.11.07-23.18.09:516][533]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.07-23.18.09:594][533]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.07-23.18.09:594][533]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.07-23.18.09:595][533]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.07-23.18.09:595][533]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.07-23.18.09:595][533]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.07-23.18.09:595][533]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.07-23.18.09:595][533]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.07-23.18.09:601][533]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.07-23.18.09:659][533]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.07-23.18.09:659][533]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.07-23.18.09:659][533]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.07-23.18.09:659][533]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.07-23.18.09:728][533]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.07-23.18.09:728][533]LogAudioMixer: Display: 1: FrontRight
+[2021.11.07-23.18.09:772][533]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2021.11.07-23.18.09:792][533]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.07-23.18.09:792][533]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.07-23.18.09:793][533]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.07-23.18.09:807][533]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.07-23.18.09:807][533]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.07-23.18.09:807][533]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.07-23.18.09:819][533]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.07-23.18.09:819][533]LogInit: FAudioDevice initialized.
+[2021.11.07-23.18.09:819][533]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.07-23.18.09:819][533]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2021.11.07-23.18.10:331][533]LogLoad: Game class is 'GameModeBase'
+[2021.11.07-23.18.10:652][533]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.11.08-06.18.10
+[2021.11.07-23.18.10:768][533]LogWorld: Bringing up level for play took: 0.223889
+[2021.11.07-23.18.10:916][533]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.11.07-23.18.11:224][533]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.11.07-23.18.11:343][533]PIE: Server logged in
+[2021.11.07-23.18.11:346][533]PIE: Play in editor total start time 3.528 seconds.
+[2021.11.07-23.18.11:606][533]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.11:692][533]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.12:987][534]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.12:987][534]LogBlueprintUserMessages: [BP_PawnTank_2] 0.4
+[2021.11.07-23.18.13:064][535]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:064][535]LogBlueprintUserMessages: [BP_PawnTank_2] 0.4
+[2021.11.07-23.18.13:076][536]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:076][536]LogBlueprintUserMessages: [BP_PawnTank_2] 0.013145
+[2021.11.07-23.18.13:085][537]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:085][537]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008359
+[2021.11.07-23.18.13:093][538]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:093][538]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008539
+[2021.11.07-23.18.13:109][539]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:110][539]LogBlueprintUserMessages: [BP_PawnTank_2] 0.016387
+[2021.11.07-23.18.13:123][540]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:123][540]LogBlueprintUserMessages: [BP_PawnTank_2] 0.013001
+[2021.11.07-23.18.13:137][541]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:137][541]LogBlueprintUserMessages: [BP_PawnTank_2] 0.014762
+[2021.11.07-23.18.13:151][542]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:151][542]LogBlueprintUserMessages: [BP_PawnTank_2] 0.013631
+[2021.11.07-23.18.13:164][543]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:164][543]LogBlueprintUserMessages: [BP_PawnTank_2] 0.013445
+[2021.11.07-23.18.13:178][544]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:178][544]LogBlueprintUserMessages: [BP_PawnTank_2] 0.013564
+[2021.11.07-23.18.13:191][545]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:191][545]LogBlueprintUserMessages: [BP_PawnTank_2] 0.012899
+[2021.11.07-23.18.13:204][546]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:204][546]LogBlueprintUserMessages: [BP_PawnTank_2] 0.012961
+[2021.11.07-23.18.13:217][547]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:217][547]LogBlueprintUserMessages: [BP_PawnTank_2] 0.013545
+[2021.11.07-23.18.13:228][548]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:228][548]LogBlueprintUserMessages: [BP_PawnTank_2] 0.011432
+[2021.11.07-23.18.13:242][549]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:242][549]LogBlueprintUserMessages: [BP_PawnTank_2] 0.01342
+[2021.11.07-23.18.13:250][550]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:251][550]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:259][551]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:259][551]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:267][552]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:267][552]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:275][553]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:275][553]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:283][554]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:283][554]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:292][555]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:292][555]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:300][556]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:300][556]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:309][557]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:309][557]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:317][558]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:317][558]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:325][559]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:325][559]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:334][560]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:334][560]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:342][561]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:342][561]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:350][562]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:350][562]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:358][563]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:359][563]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:367][564]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:367][564]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:375][565]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:375][565]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:383][566]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:384][566]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:392][567]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:392][567]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:401][568]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:401][568]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:409][569]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:409][569]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:417][570]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:417][570]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:438][571]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:438][571]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:446][572]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:446][572]LogBlueprintUserMessages: [BP_PawnTank_2] 0.020806
+[2021.11.07-23.18.13:454][573]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:455][573]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:463][574]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:463][574]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:471][575]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:471][575]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:480][576]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:480][576]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:488][577]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:488][577]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:496][578]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:496][578]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:504][579]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:504][579]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:513][580]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:513][580]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:521][581]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:521][581]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:529][582]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:529][582]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:538][583]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:538][583]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:546][584]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:546][584]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:554][585]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:554][585]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:563][586]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:563][586]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:572][587]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:572][587]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:580][588]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:580][588]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:588][589]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:588][589]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:597][590]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:597][590]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:605][591]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:605][591]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:613][592]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:613][592]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:622][593]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:622][593]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:630][594]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:630][594]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:638][595]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:638][595]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:646][596]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:647][596]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:655][597]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:655][597]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:663][598]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:663][598]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:671][599]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:672][599]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:680][600]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:680][600]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008339
+[2021.11.07-23.18.13:688][601]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:688][601]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:697][602]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:697][602]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:705][603]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:705][603]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:713][604]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:713][604]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:721][605]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:722][605]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:746][606]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:747][606]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:766][607]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:766][607]LogBlueprintUserMessages: [BP_PawnTank_2] 0.035164
+[2021.11.07-23.18.13:774][608]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:774][608]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008341
+[2021.11.07-23.18.13:782][609]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:782][609]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:790][610]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:790][610]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:799][611]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:799][611]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:807][612]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:807][612]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:815][613]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:815][613]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:824][614]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:824][614]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:832][615]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:832][615]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:840][616]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:840][616]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:849][617]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:849][617]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:857][618]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:857][618]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:865][619]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:866][619]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:874][620]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:874][620]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:882][621]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:882][621]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:890][622]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:891][622]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:899][623]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:899][623]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:907][624]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:907][624]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:915][625]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:915][625]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:924][626]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:924][626]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:932][627]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:932][627]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:940][628]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:940][628]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:949][629]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:949][629]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:957][630]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:957][630]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:965][631]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:965][631]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:973][632]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:974][632]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:982][633]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:982][633]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.13:990][634]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:990][634]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.13:998][635]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.13:999][635]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:007][636]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:007][636]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:015][637]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:015][637]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:024][638]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:024][638]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:032][639]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:032][639]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:040][640]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:040][640]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:049][641]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:049][641]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:057][642]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:057][642]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:065][643]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:065][643]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:074][644]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:074][644]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:082][645]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:082][645]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:090][646]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:090][646]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:098][647]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:099][647]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:107][648]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:107][648]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:115][649]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:115][649]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:124][650]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:124][650]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:132][651]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:132][651]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:140][652]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:140][652]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:149][653]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:149][653]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008346
+[2021.11.07-23.18.14:157][654]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:157][654]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:165][655]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:165][655]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:173][656]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:174][656]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:182][657]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:182][657]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:190][658]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:190][658]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:198][659]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:199][659]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:207][660]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:207][660]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:215][661]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:215][661]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:224][662]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:224][662]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:232][663]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:232][663]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:240][664]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:240][664]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:248][665]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:248][665]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:257][666]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:257][666]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:265][667]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:265][667]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:273][668]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:274][668]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:282][669]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:282][669]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008359
+[2021.11.07-23.18.14:290][670]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:290][670]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:299][671]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:299][671]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:307][672]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:307][672]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:315][673]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:315][673]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:324][674]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:324][674]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:332][675]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:332][675]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:340][676]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:341][676]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:349][677]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:349][677]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:357][678]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:357][678]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:365][679]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:366][679]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008357
+[2021.11.07-23.18.14:374][680]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:374][680]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:382][681]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:382][681]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:390][682]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:390][682]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:399][683]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:399][683]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:407][684]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:407][684]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:415][685]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:415][685]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:424][686]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:424][686]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:432][687]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:432][687]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:440][688]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:440][688]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:448][689]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:448][689]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:457][690]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:457][690]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:466][691]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:466][691]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:474][692]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:474][692]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:482][693]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:482][693]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:490][694]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:490][694]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:499][695]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:499][695]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:507][696]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:507][696]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:515][697]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:515][697]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:523][698]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:524][698]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:532][699]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:532][699]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:540][700]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:540][700]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:548][701]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:549][701]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:557][702]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:557][702]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:565][703]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:565][703]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:573][704]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:573][704]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:582][705]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:582][705]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:590][706]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:590][706]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:598][707]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:598][707]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:606][708]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:607][708]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:615][709]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:615][709]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:623][710]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:624][710]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:631][711]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:631][711]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:640][712]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:640][712]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:648][713]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:648][713]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:656][714]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:657][714]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:665][715]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:665][715]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:673][716]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:673][716]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:681][717]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:681][717]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:690][718]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:690][718]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:698][719]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:698][719]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:707][720]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:707][720]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:715][721]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:715][721]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:723][722]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:723][722]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:731][723]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:732][723]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:740][724]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:740][724]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:748][725]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:748][725]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:756][726]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:757][726]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:765][727]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:765][727]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:773][728]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:773][728]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:781][729]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:782][729]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:790][730]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:790][730]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:798][731]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:798][731]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:806][732]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:806][732]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:815][733]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:815][733]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:823][734]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:823][734]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:832][735]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:832][735]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:840][736]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:840][736]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:848][737]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:848][737]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:856][738]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:856][738]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:865][739]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:865][739]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:873][740]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:873][740]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:882][741]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:882][741]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:890][742]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:890][742]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:898][743]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:898][743]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:907][744]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:907][744]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:915][745]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:915][745]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:923][746]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:923][746]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:932][747]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:932][747]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:940][748]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:940][748]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:948][749]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:948][749]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:956][750]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:956][750]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:965][751]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:965][751]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:973][752]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:973][752]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:981][753]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:982][753]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.14:990][754]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:990][754]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.14:999][755]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.14:999][755]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:007][756]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:007][756]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:015][757]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:015][757]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:023][758]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:023][758]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:031][759]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:032][759]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:040][760]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:040][760]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:048][761]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:048][761]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:056][762]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:056][762]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:065][763]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:065][763]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:074][764]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:074][764]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:082][765]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:082][765]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:090][766]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:090][766]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:098][767]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:099][767]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:107][768]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:107][768]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:115][769]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:115][769]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:123][770]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:123][770]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:132][771]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:132][771]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:140][772]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:140][772]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:148][773]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:149][773]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:156][774]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:156][774]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:165][775]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:165][775]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:173][776]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:173][776]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:181][777]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:182][777]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:190][778]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:190][778]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:198][779]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:198][779]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:206][780]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:207][780]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:215][781]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:215][781]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:223][782]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:223][782]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:232][783]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:232][783]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:240][784]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:240][784]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:248][785]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:248][785]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:257][786]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:257][786]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:265][787]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:265][787]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:273][788]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:273][788]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:281][789]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:282][789]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:290][790]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:290][790]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:298][791]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:299][791]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008343
+[2021.11.07-23.18.15:307][792]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:307][792]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:315][793]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:315][793]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:323][794]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:324][794]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:332][795]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:332][795]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:340][796]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:340][796]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:348][797]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:348][797]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:356][798]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:357][798]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:365][799]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:365][799]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:373][800]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:373][800]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:382][801]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:382][801]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:390][802]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:390][802]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:398][803]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:399][803]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:407][804]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:407][804]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:415][805]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:416][805]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:423][806]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:423][806]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:432][807]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:432][807]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:440][808]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:440][808]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:448][809]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:448][809]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:456][810]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:457][810]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:465][811]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:465][811]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:473][812]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:473][812]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:481][813]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:481][813]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:490][814]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:490][814]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:498][815]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:499][815]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:506][816]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:507][816]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:515][817]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:515][817]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:523][818]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:523][818]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:532][819]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:532][819]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:540][820]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:540][820]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:548][821]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:548][821]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:557][822]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:557][822]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:564][823]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:564][823]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:573][824]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:573][824]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:582][825]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:582][825]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:590][826]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:590][826]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:598][827]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:598][827]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:606][828]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:606][828]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:614][829]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:614][829]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:623][830]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:623][830]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:631][831]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:631][831]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:640][832]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:640][832]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:648][833]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:648][833]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:656][834]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:656][834]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:664][835]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:665][835]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:673][836]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:673][836]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:681][837]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:681][837]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:689][838]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:689][838]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:698][839]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:698][839]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:706][840]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:706][840]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:715][841]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:715][841]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008388
+[2021.11.07-23.18.15:723][842]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:723][842]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:731][843]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:731][843]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:740][844]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:740][844]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:748][845]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:748][845]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:756][846]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:756][846]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:764][847]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:764][847]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:773][848]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:773][848]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:781][849]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:781][849]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:790][850]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:790][850]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:798][851]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:798][851]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:806][852]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:806][852]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:815][853]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:815][853]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:823][854]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:823][854]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:831][855]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:831][855]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:840][856]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:840][856]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:848][857]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:848][857]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:856][858]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:856][858]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:865][859]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:865][859]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:873][860]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:873][860]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:881][861]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:881][861]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:889][862]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:889][862]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:898][863]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:898][863]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:906][864]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:906][864]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:914][865]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:914][865]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:923][866]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:923][866]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:931][867]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:931][867]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:940][868]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:940][868]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:948][869]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:948][869]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:956][870]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:956][870]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:965][871]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:965][871]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:973][872]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:973][872]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:981][873]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:981][873]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.15:990][874]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:990][874]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.15:998][875]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.15:998][875]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:006][876]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:006][876]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:015][877]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:015][877]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:023][878]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:023][878]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:031][879]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:031][879]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:039][880]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:039][880]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:048][881]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:048][881]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:056][882]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:056][882]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:065][883]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:065][883]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:073][884]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:073][884]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:081][885]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:081][885]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:090][886]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:090][886]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:098][887]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:098][887]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:106][888]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:106][888]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:114][889]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:114][889]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:123][890]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:123][890]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:131][891]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:131][891]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:140][892]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:140][892]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:148][893]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:148][893]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:156][894]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:156][894]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:164][895]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:164][895]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:173][896]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:173][896]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:181][897]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:181][897]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:189][898]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:189][898]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:198][899]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:198][899]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008336
+[2021.11.07-23.18.16:206][900]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:206][900]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:215][901]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:215][901]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:223][902]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:223][902]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:231][903]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:231][903]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:240][904]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:240][904]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:248][905]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:248][905]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:256][906]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:256][906]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:265][907]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:265][907]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:273][908]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:273][908]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:281][909]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:281][909]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:290][910]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:290][910]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:298][911]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:298][911]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:306][912]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:306][912]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:315][913]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:315][913]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:323][914]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:323][914]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:331][915]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:331][915]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:340][916]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:340][916]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:348][917]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:348][917]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:356][918]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:356][918]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:364][919]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:364][919]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:373][920]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:373][920]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:381][921]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:381][921]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:390][922]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:390][922]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:398][923]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:398][923]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:406][924]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:406][924]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:415][925]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:415][925]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:423][926]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:423][926]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:431][927]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:431][927]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:440][928]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:440][928]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:448][929]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:448][929]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:456][930]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:456][930]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:465][931]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:465][931]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:473][932]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:473][932]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:481][933]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:481][933]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:489][934]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:489][934]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:498][935]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:498][935]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:506][936]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:506][936]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:515][937]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:515][937]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:523][938]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:523][938]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:531][939]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:532][939]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:540][940]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:540][940]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:548][941]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:548][941]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:556][942]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:557][942]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:565][943]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:565][943]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:574][944]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:574][944]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:582][945]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:582][945]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:590][946]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:591][946]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:599][947]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:599][947]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:607][948]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:607][948]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:616][949]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:616][949]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:624][950]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:624][950]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:632][951]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:632][951]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:641][952]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:641][952]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:649][953]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:649][953]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:657][954]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:657][954]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:666][955]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:666][955]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:674][956]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:674][956]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:682][957]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:682][957]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:690][958]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:691][958]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:699][959]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:699][959]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:707][960]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:707][960]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:716][961]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:716][961]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:724][962]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:724][962]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:732][963]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:732][963]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:741][964]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:741][964]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:749][965]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:749][965]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:757][966]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:757][966]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:765][967]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:766][967]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:774][968]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:774][968]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:782][969]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:782][969]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:790][970]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:791][970]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:799][971]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:799][971]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:807][972]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:807][972]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:815][973]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:815][973]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:824][974]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:824][974]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:832][975]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:832][975]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:840][976]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:840][976]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:848][977]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:848][977]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:857][978]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:857][978]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:865][979]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:865][979]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:873][980]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:873][980]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:882][981]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:882][981]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:890][982]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:890][982]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:898][983]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:898][983]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:907][984]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:907][984]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:915][985]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:915][985]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:923][986]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:923][986]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:932][987]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:932][987]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:940][988]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:940][988]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:948][989]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:948][989]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.16:957][990]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:957][990]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:965][991]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:965][991]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:973][992]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:973][992]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:982][993]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:982][993]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:990][994]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:990][994]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.16:998][995]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.16:998][995]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:007][996]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:007][996]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:015][997]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:015][997]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:023][998]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:023][998]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:032][999]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:032][999]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:040][  0]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:040][  0]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:048][  1]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:048][  1]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:057][  2]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:057][  2]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:065][  3]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:065][  3]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:073][  4]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:073][  4]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:082][  5]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:082][  5]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:090][  6]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:090][  6]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:098][  7]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:098][  7]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:107][  8]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:107][  8]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:115][  9]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:115][  9]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:123][ 10]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:123][ 10]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:132][ 11]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:132][ 11]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:140][ 12]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:140][ 12]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:148][ 13]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:148][ 13]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:157][ 14]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:157][ 14]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:165][ 15]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:165][ 15]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:173][ 16]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:173][ 16]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:182][ 17]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:182][ 17]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:190][ 18]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:190][ 18]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:198][ 19]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:198][ 19]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:207][ 20]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:207][ 20]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:215][ 21]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:215][ 21]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:223][ 22]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:223][ 22]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:232][ 23]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:232][ 23]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:240][ 24]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:240][ 24]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:248][ 25]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:248][ 25]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:257][ 26]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:257][ 26]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:265][ 27]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:265][ 27]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:273][ 28]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:274][ 28]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:282][ 29]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:282][ 29]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:290][ 30]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:290][ 30]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:298][ 31]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:298][ 31]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:307][ 32]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:307][ 32]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:315][ 33]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:315][ 33]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:323][ 34]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:323][ 34]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:332][ 35]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:332][ 35]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:340][ 36]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:340][ 36]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:348][ 37]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:348][ 37]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:357][ 38]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:357][ 38]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:365][ 39]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:365][ 39]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:373][ 40]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:373][ 40]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:382][ 41]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:382][ 41]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:390][ 42]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:390][ 42]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:398][ 43]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:398][ 43]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:407][ 44]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:407][ 44]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:415][ 45]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:415][ 45]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:424][ 46]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:424][ 46]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:432][ 47]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:432][ 47]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:440][ 48]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:440][ 48]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:448][ 49]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:449][ 49]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:457][ 50]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:457][ 50]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:465][ 51]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:465][ 51]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:473][ 52]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:473][ 52]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:482][ 53]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:482][ 53]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:490][ 54]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:490][ 54]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:498][ 55]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:499][ 55]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:507][ 56]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:507][ 56]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:515][ 57]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:515][ 57]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:523][ 58]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:523][ 58]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:532][ 59]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:532][ 59]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:540][ 60]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:540][ 60]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:548][ 61]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:548][ 61]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:557][ 62]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:557][ 62]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:565][ 63]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:565][ 63]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:573][ 64]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:573][ 64]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:582][ 65]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:582][ 65]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:590][ 66]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:590][ 66]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:598][ 67]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:598][ 67]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:606][ 68]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:606][ 68]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:615][ 69]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:615][ 69]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:623][ 70]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:623][ 70]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:632][ 71]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:632][ 71]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:640][ 72]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:640][ 72]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:648][ 73]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:649][ 73]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:656][ 74]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:657][ 74]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:665][ 75]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:665][ 75]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:673][ 76]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:673][ 76]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:681][ 77]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:681][ 77]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:690][ 78]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:690][ 78]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:698][ 79]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:698][ 79]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:706][ 80]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:707][ 80]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:715][ 81]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:715][ 81]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:723][ 82]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:723][ 82]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:731][ 83]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:731][ 83]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:740][ 84]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:740][ 84]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:748][ 85]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:748][ 85]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:756][ 86]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:757][ 86]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:765][ 87]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:765][ 87]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:773][ 88]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:773][ 88]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:782][ 89]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:782][ 89]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:790][ 90]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:790][ 90]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:798][ 91]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:798][ 91]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:806][ 92]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:807][ 92]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:815][ 93]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:815][ 93]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:824][ 94]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:824][ 94]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:831][ 95]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:831][ 95]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:840][ 96]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:840][ 96]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008334
+[2021.11.07-23.18.17:848][ 97]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:849][ 97]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333
+[2021.11.07-23.18.17:857][ 98]LogTemp: Warning: Value: (null)
+[2021.11.07-23.18.17:857][ 98]LogBlueprintUserMessages: [BP_PawnTank_2] 0.008333

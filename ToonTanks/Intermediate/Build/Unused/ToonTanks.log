@@ -1,0 +1,32 @@
+﻿  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-2024.dll
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-2024.pdb
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-4731.dll
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-4731.pdb
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-4816.dll
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-4816.pdb
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-6226.dll
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-6226.pdb
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-7569.dll
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-7569.pdb
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-8362.dll
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-8362.pdb
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-9217.dll
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-9217.pdb
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-2024.lib
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-4731.lib
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-4816.lib
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6226.lib
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7569.lib
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-8362.lib
+  Deleted hot-reload file: D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-9217.lib
+  Building ToonTanksEditor...
+  Using Visual Studio 2019 14.30.30705 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 4 processes...
+    [1/4] ToonTanksGameMode.cpp
+    [2/4] UE4Editor-ToonTanks.lib
+       Creating library D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks.lib and object D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks.exp
+    [3/4] UE4Editor-ToonTanks.dll
+       Creating library D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks.suppressed.lib and object D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks.suppressed.exp
+    [4/4] ToonTanksEditor.target
+  Total time in Parallel executor: 27,64 seconds
+  Total execution time: 28,64 seconds

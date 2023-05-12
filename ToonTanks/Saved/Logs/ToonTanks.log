@@ -1,0 +1,1266 @@
+﻿Log file open, 12/02/21 19:17:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ToonTanks
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.836190
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 3 2200G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.02-12.17.41:027][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.02-12.17.41:027][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.02-12.17.41:028][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.02-12.17.41:028][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.02-12.17.41:029][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.02-12.17.41:029][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.02-12.17.41:111][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.02-12.17.41:111][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.02-12.17.41:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.02-12.17.41:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.02-12.17.41:113][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.02-12.17.41:113][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:113][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.02-12.17.41:113][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.02-12.17.41:113][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:113][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.02-12.17.41:113][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.02-12.17.41:113][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.02-12.17.41:143][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.02-12.17.41:152][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.02-12.17.41:152][  0]LogHAL: Display: Platform has ~ 8 GB [8515334144 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.02-12.17.41:153][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.02-12.17.41:169][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.02-12.17.41:169][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.02-12.17.41:170][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.02-12.17.41:171][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.02-12.17.41:171][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.02-12.17.41:171][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.02-12.17.41:171][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.02-12.17.41:171][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.02-12.17.41:171][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.02-12.17.41:171][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:171][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.02-12.17.41:171][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.02-12.17.41:171][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-12.17.41:171][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.02-12.17.41:171][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.02-12.17.41:171][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.02-12.17.41:171][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.02-12.17.41:207][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.02-12.17.41:207][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.02-12.17.41:207][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.02-12.17.41:207][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.02-12.17.41:207][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/IKO Tutorial/Udemy/ToonTanks/Saved/Config/Windows/Editor.ini]
+[2021.12.02-12.17.41:234][  0]LogInit: Computer: DESKTOP-E5BTHVJ
+[2021.12.02-12.17.41:235][  0]LogInit: User: eriko
+[2021.12.02-12.17.41:235][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.12.02-12.17.41:235][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.02-12.17.41:235][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.12.02-12.17.41:244][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.02-12.17.41:244][  0]LogMemory: Process Physical Memory: 144.92 MB used, 144.93 MB peak
+[2021.12.02-12.17.41:244][  0]LogMemory: Process Virtual Memory: 113.29 MB used, 113.29 MB peak
+[2021.12.02-12.17.41:244][  0]LogMemory: Physical Memory: 4380.05 MB used,  3740.81 MB free, 8120.86 MB total
+[2021.12.02-12.17.41:244][  0]LogMemory: Virtual Memory: 134207792.00 MB used,  9932.03 MB free, 134217728.00 MB total
+[2021.12.02-12.17.41:258][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.02-12.17.43:239][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.02-12.17.43:341][  0]LogInit: Using OS detected language (en-US).
+[2021.12.02-12.17.43:341][  0]LogInit: Using OS detected locale (en-ID).
+[2021.12.02-12.17.43:451][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.12.02-12.17.44:265][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.02-12.17.44:440][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.02-12.17.44:824][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.02-12.17.44:824][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.02-12.17.49:201][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.12.02-12.17.49:229][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.02-12.17.49:229][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.02-12.17.49:229][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.02-12.17.49:229][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.02-12.17.49:423][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.12.02-12.17.49:423][  0]LogD3D11RHI:       1977/0/4060 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.12.02-12.17.49:431][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.02-12.17.49:432][  0]LogD3D11RHI:       0/0/4060 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.02-12.17.49:432][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.12.02-12.17.49:432][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050
+[2021.12.02-12.17.49:432][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.12.02-12.17.49:432][  0]LogD3D11RHI:     DeviceId    : 1c81
+[2021.12.02-12.17.49:432][  0]LogD3D11RHI:     SubSysId    : 11c010de
+[2021.12.02-12.17.49:432][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.12.02-12.17.49:432][  0]LogD3D11RHI:     DedicatedVideoMemory : 2073288704 bytes
+[2021.12.02-12.17.49:432][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.02-12.17.49:432][  0]LogD3D11RHI:     SharedSystemMemory : 4257667072 bytes
+[2021.12.02-12.17.49:432][  0]LogD3D11RHI:     AdapterLuid : 0 40585
+[2021.12.02-12.17.49:456][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.02-12.17.49:456][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.02-12.17.49:456][  0]LogWindows: EnumDisplayDevices:
+[2021.12.02-12.17.49:456][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2021.12.02-12.17.49:457][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.12.02-12.17.49:457][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.12.02-12.17.49:458][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.12.02-12.17.49:458][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.12.02-12.17.49:458][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.12.02-12.17.49:458][  0]LogD3D11RHI:   Driver Version: 496.13 (internal:30.0.14.9613, unified:496.13)
+[2021.12.02-12.17.49:458][  0]LogD3D11RHI:      Driver Date: 10-6-2021
+[2021.12.02-12.17.49:459][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2021.12.02-12.17.49:459][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.12.02-12.17.49:459][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050
+[2021.12.02-12.17.49:459][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.12.02-12.17.49:459][  0]LogD3D11RHI:     DeviceId    : 1c81
+[2021.12.02-12.17.49:459][  0]LogD3D11RHI:     SubSysId    : 11c010de
+[2021.12.02-12.17.49:459][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.12.02-12.17.49:459][  0]LogD3D11RHI:     DedicatedVideoMemory : 2073288704 bytes
+[2021.12.02-12.17.49:459][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.02-12.17.49:459][  0]LogD3D11RHI:     SharedSystemMemory : 4257667072 bytes
+[2021.12.02-12.17.49:459][  0]LogD3D11RHI:     AdapterLuid : 0 40585
+[2021.12.02-12.17.49:551][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.02-12.17.49:553][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.02-12.17.49:553][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.02-12.17.50:250][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.02-12.17.50:493][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.02-12.17.51:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.02-12.17.51:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.02-12.17.51:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.02-12.17.51:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.02-12.17.51:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.02-12.17.51:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.02-12.17.51:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.02-12.17.51:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.02-12.17.51:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.02-12.17.51:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.02-12.17.51:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.02-12.17.52:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.02-12.17.52:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.02-12.17.52:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.02-12.17.52:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.02-12.17.52:249][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.02-12.17.52:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.02-12.17.52:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.02-12.17.52:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.02-12.17.52:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.02-12.17.52:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.02-12.17.52:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.02-12.17.52:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.02-12.17.52:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.02-12.17.52:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.02-12.17.52:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.02-12.17.52:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.02-12.17.52:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.02-12.17.52:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.02-12.17.52:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.02-12.17.52:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.02-12.17.52:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.02-12.17.52:922][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.02-12.17.53:132][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.02-12.17.53:635][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.12.02-12.17.55:653][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.02-12.17.55:720][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (D:/IKO Tutorial/Udemy/ToonTanks/Intermediate/Shaders/WorkingDirectory/8548/).
+[2021.12.02-12.17.55:720][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/eriko/AppData/Local/Temp/UnrealShaderWorkingDir/92C59D4E433CD4B03174E59DA97B944C/'.
+[2021.12.02-12.17.55:750][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.12.02-12.17.55:751][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.02-12.17.55:752][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.02-12.18.02:427][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.02-12.18.02:714][  0]LogDerivedDataCache: Loaded boot cache 0.29s 94MB C:/Users/eriko/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.02-12.18.02:714][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/eriko/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.12.02-12.18.02:714][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/IKO Tutorial/Udemy/ToonTanks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.02-12.18.02:714][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.02-12.18.02:714][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/IKO Tutorial/Udemy/ToonTanks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.02-12.18.02:714][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.02-12.18.02:789][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.02-12.18.02:789][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.02-12.18.02:789][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.02-12.18.02:871][  0]LogDerivedDataCache: Speed tests for C:/Users/eriko/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.08 seconds
+[2021.12.02-12.18.02:871][  0]LogDerivedDataCache: Display: Performance to C:/Users/eriko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.36ms. RandomReadSpeed=13.63MBs, RandomWriteSpeed=95.26MBs. Assigned SpeedClass 'Local'
+[2021.12.02-12.18.02:873][  0]LogDerivedDataCache: Using Local data cache path C:/Users/eriko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.02-12.18.02:873][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.02-12.18.02:873][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.02-12.18.03:351][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.02-12.18.03:496][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.02-12.18.05:096][  0]LogAssetRegistry: FAssetRegistry took 0.0717 seconds to start up
+[2021.12.02-12.18.16:182][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.02-12.18.16:182][  0]LogInit: Active device profile: [0000022A6D4B6C00][0000022A69C9E200 49] Windows
+[2021.12.02-12.18.16:182][  0]LogInit: Profiles: [0000022A6D4B6C00][0000022A69C9E200 49] Windows, [0000022A6D462000][0000022A69CA6380 49] WindowsNoEditor, [0000022A6D4B6000][0000022A69CAA500 49] WindowsServer, [0000022A6D462B00][0000022A69CAE680 49] WindowsClient, [0000022A6D4B5500][0000022A69CA27C0 49] IOS, [0000022A6D462200][0000022A69CB2900 49] iPadAir, [0000022A6D4B4A00][0000022A69CB6A40 49] iPadAir2, [0000022A6D3FDD00][0000022A6CC92CC0 49] IPadPro, [0000022A6D3FDE00][0000022A69CBAD00 49] iPadAir3, [0000022A6D463300][0000022A6CC96E80 49] iPadAir4, [0000022A6D3FED00][0000022A6CC9B000 49] iPadMini2, [0000022A6D461500][0000022A6CC9F180 49] iPadMini3, [0000022A6D3FF900][0000022A6CCA3300 49] iPadMini4, [0000022A6D460400][0000022A6CCA7480 49] iPadMini5, [0000022A6D42D300][0000022A6CCAF740 49] iPhone6, [0000022A6D42D400][0000022A6CCAB780 49] iPodTouch6, [0000022A6D4B6A00][0000022A6CCB7A40 49] iPhone7, [0000022A6D4B7200][0000022A6CCB3A80 49] iPodTouch7, [0000022A6D3FFC00][0000022A69AFBC00 49] iPhone5S, [0000022A6D4B6800][0000022A69AFE200 49] iPhone6Plus, [0000022A6D3FDB00][0000022A69B02380 49] iPhone6S, [0000022A6D4B6200][0000022A69B06500 49] iPhone6SPlus, [0000022A6D3FEE00][0000022A69B0A680 49] iPhone7Plus, [0000022A6D4B4100][0000022A69B0E800 49] iPhoneSE, [0000022A6D42C200][0000022A69CBE940 49] iPhone8, [0000022A6D3FE300][0000022A69B12A80 49] iPhone8Plus, [0000022A6D42CF00][0000022A69B16BC0 49] iPhoneX, [0000022A6D3FE800][0000022A69B1AD00 49] iPhoneXS, [0000022A6D42F900][0000022A62DC0E80 49] iPhoneXSMax, [0000022A6D3FF100][0000022A62DC5000 49] iPhoneXR, [0000022A6D42F300][0000022A62DC9180 49] iPhone11, [0000022A6D3FEF00][0000022A62DCD300 49] iPhone11Pro, [0000022A6D42D100][0000022A62DD1480 49] iPhone11ProMax, [0000022A6D3FFE00][0000022A62DD5600 49] iPhoneSE2, [0000022A6D42CD00][0000022A62DD9780 49] iPhone12Mini, [0000022A6D3FEB00][0000022A62DDD900 49] iPhone12, [0000022A6D42DD00][0000022A62DE1A80 49] iPhone12Pro, [0000022A6D4B6300][0000022A62DE5C00 49] iPhone12ProMax, [0000022A6D42F500][0000022A62DE8200 49] iPadPro105, [0000022A6D4B4B00][0000022A62DEC380 49] iPadPro129, [0000022A6D42E200][0000022A62DF0500 49] iPadPro97, [0000022A6D4B7700][0000022A62DF4680 49] iPadPro2_129, [0000022A6D42C700][0000022A62DF8800 49] iPad5, [0000022A6D4B7500][0000022A62DFC980 49] iPad6, [0000022A6D42DB00][0000022A62E00B00 49] iPad7, [0000022A6D4B4E00][0000022A69B1EC40 49] iPad8, [0000022A6D42FA00][0000022A62E04D80 49] iPadPro11, [0000022A6D4B5900][0000022A62E08EC0 49] iPadPro2_11, [0000022A6D42EB00][0000022A6CB79040 49] iPadPro3_129, [0000022A6D4B4900][0000022A6CB7D1C0 49] iPadPro4_129, [0000022A6D42EC00][0000022A6CB81340 49] AppleTV, [0000022A6D4B6E00][0000022A6CB854C0 49] AppleTV4K, [0000022A6D42E400][0000022A6CB89640 49] TVOS, [0000022A6D4B5D00][0000022A6CB8D7C0 49] Mac, [0000022A6D42C300][0000022A6CB91940 49] MacClient, [0000022A6D4B7A00][0000022A6CB95AC0 49] MacNoEditor, [0000022A6D42ED00][0000022A6CB980C0 49] MacServer, [0000022A6D4B4600][0000022A6CB9C240 49] Linux, [0000022A6D42FC00][0000022A6CBA03C0 49] LinuxAArch64, [0000022A6D4B4700][0000022A6CBA4540 49] LinuxNoEditor, [0000022A6D42E600][0000022A6CBA86C0 49] LinuxAArch64NoEditor, [0000022A6D4B7D00][0000022A6CBAC840 49] LinuxClient, [0000022A6D42EE00][0000022A6CBB09C0 49] LinuxAArch64Client, [0000022A6D4B4D00][0000022A6CBB4B40 49] LinuxServer, [0000022A6D42F800][0000022A6CBB8CC0 49] LinuxAArch64Server, [0000022A6D4B6400][0000022A6CB74E00 49] Android, [0000022A6D42E900][0000022A6CBBCF40 49] Android_Low, [0000022A6D4B5E00][0000022A6CBC1080 49] Android_Mid, [0000022A6D42FE00][0000022A6CBC51C0 49] Android_High, [0000022A6D4B4300][0000022A6CBCD340 49] Android_Default, [0000022A6D42E500][0000022A6CBD14C0 49] Android_Adreno4xx, [0000022A6D4B5800][0000022A6CBD5640 49] Android_Adreno5xx_Low, [0000022A6D42CA00][0000022A6CBD97C0 49] Android_Adreno5xx, [0000022A6D4B7600][0000022A6CBDD940 49] Android_Adreno6xx, [0000022A6D42D200][0000022A6CBE1AC0 49] Android_Adreno6xx_Vulkan, [0000022A6D4B7000][0000022A6CBE40C0 49] Android_Mali_T6xx, [0000022A6D42DE00][0000022A6CBE8240 49] Android_Mali_T7xx, [0000022A6D4B4C00][0000022A6CBEC3C0 49] Android_Mali_T8xx, [0000022A6D42F000][0000022A6CBF0540 49] Android_Mali_G71, [0000022A6D4B5600][0000022A6CBF46C0 49] Android_Mali_G72, [0000022A6D42CC00][0000022A6CBF8840 49] Android_Mali_G72_Vulkan, [0000022A6D4B6700][0000022A6CBFC9C0 49] Android_Mali_G76, [0000022A6D42D900][0000022A6CC00B40 49] Android_Mali_G76_Vulkan, [0000022A6D462F00][0000022A6CC04CC0 49] Android_Mali_G77, [0000022A6D3FCB00][0000022A6CC08E40 49] Android_Mali_G77_Vulkan, [0000022A6D461900][0000022A6CBC8F80 49] Android_Mali_G78, [0000022A6D3FD200][0000022A6CC0D0C0 49] Android_Mali_G78_Vulkan, [0000022A6D463000][0000022A6CC11200 49] Android_Mali_G710, [0000022A6D3FE400][0000022A6CC15340 49] Android_Mali_G710_Vulkan, [0000022A6D463F00][0000022A6CC1D4C0 49] Android_Vulkan_SM5, [0000022A6D3FC700][0000022A6CC21640 49] Android_PowerVR_G6xxx, [0000022A6D462500][0000022A6CC257C0 49] Android_PowerVR_GT7xxx, [0000022A6D3FE000][0000022A6CC29940 49] Android_PowerVR_GE8xxx, [0000022A6D463B00][0000022A6CC2DAC0 49] Android_PowerVR_GM9xxx, [0000022A6D3FC600][0000022A6CC300C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000022A6D461C00][0000022A6CC34240 49] Android_TegraK1, [0000022A6D3FD600][0000022A6CC383C0 49] Android_Unknown_Vulkan, [0000022A6D460A00][0000022A6CC3C540 49] Lumin, [0000022A6D3FCA00][0000022A6CC406C0 49] Lumin_Desktop, [0000022A6D462E00][0000022A6CC44840 49] HoloLens, 
+[2021.12.02-12.18.18:918][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.02-12.18.18:918][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.02-12.18.18:918][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.02-12.18.18:918][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.02-12.18.18:930][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.02-12.18.19:705][  0]LogNetVersion: ToonTanks 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3806074785)
+[2021.12.02-12.18.35:765][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.02-12.18.36:577][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.02-12.18.36:731][  0]LogUObjectArray: 17174 objects as part of root set at end of initial load.
+[2021.12.02-12.18.36:731][  0]LogUObjectAllocator: 4300288 out of 0 bytes used by permanent object pool.
+[2021.12.02-12.18.36:732][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.02-12.18.42:702][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C1750BB8490B661149CA33906D7A1069 | Instance: BA009A004F5059D03A6DAAA17E674CAB (DESKTOP-E5BTHVJ-8548).
+[2021.12.02-12.18.43:568][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.02-12.18.43:568][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.02-12.18.43:751][  0]LogPython: Using Python 3.7.7
+[2021.12.02-12.18.45:892][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.02-12.18.45:959][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.02-12.18.50:269][  0]SourceControl: Source control is disabled
+[2021.12.02-12.18.50:297][  0]SourceControl: Source control is disabled
+[2021.12.02-12.18.50:374][  0]SourceControl: Source control is disabled
+[2021.12.02-12.18.50:532][  0]SourceControl: Source control is disabled
+[2021.12.02-12.18.50:724][  0]SourceControl: Source control is disabled
+[2021.12.02-12.18.50:825][  0]LogUProjectInfo: Found projects:
+[2021.12.02-12.18.55:535][  0]LogOpenImageDenoise: OIDN starting up
+[2021.12.02-12.18.56:198][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.02-12.18.56:375][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.02-12.18.56:375][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.02-12.18.58:071][  0]LogCollectionManager: Loaded 0 collections in 0.001440 seconds
+[2021.12.02-12.18.58:391][  0]LogFileCache: Scanning file cache for directory 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Collections/' took 0.01s
+[2021.12.02-12.18.58:391][  0]LogFileCache: Scanning file cache for directory 'D:/IKO Tutorial/Udemy/ToonTanks/Content/Developers/eriko/Collections/' took 0.00s
+[2021.12.02-12.18.58:391][  0]LogFileCache: Scanning file cache for directory 'D:/IKO Tutorial/Udemy/ToonTanks/Content/Collections/' took 0.00s
+[2021.12.02-12.18.58:412][  0]LogOcInput: OculusInput pre-init called
+[2021.12.02-12.18.59:528][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.02-12.18.59:528][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.02-12.19.02:020][  0]LogEngine: Initializing Engine...
+[2021.12.02-12.19.02:329][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.12.02-12.19.02:348][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.02-12.19.02:354][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.02-12.19.02:450][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.029 s
+[2021.12.02-12.19.03:274][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.02-12.19.03:971][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.02-12.19.04:110][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.02-12.19.04:171][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.12.02-12.19.04:208][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.12.02-12.19.04:311][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.02-12.19.04:311][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.02-12.19.04:346][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.02-12.19.04:346][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.02-12.19.04:346][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.02-12.19.04:346][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.02-12.19.04:346][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.02-12.19.04:346][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.02-12.19.04:346][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.02-12.19.04:350][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.02-12.19.04:353][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.02-12.19.04:353][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.02-12.19.04:353][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.02-12.19.04:353][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.02-12.19.04:558][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.02-12.19.04:558][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.02-12.19.04:647][  0]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2021.12.02-12.19.04:670][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.02-12.19.04:724][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.02-12.19.04:724][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.02-12.19.04:726][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.02-12.19.04:727][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.02-12.19.04:727][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.02-12.19.04:733][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.02-12.19.04:733][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.02-12.19.04:733][  0]LogInit: FAudioDevice initialized.
+[2021.12.02-12.19.04:775][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.02-12.19.04:793][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.02-12.19.04:901][  0]LogDerivedDataCache: Saved boot cache 0.11s 94MB C:/Users/eriko/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.02-12.19.04:902][  0]LogInit: Texture streaming: Enabled
+[2021.12.02-12.19.05:121][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2021.12.02-12.19.05:194][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.02-12.19.05:206][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.02-12.19.05:237][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.02-12.19.05:611][  0]LogInit: Transaction tracking system initialized
+[2021.12.02-12.19.06:371][  0]BlueprintLog: New page: Editor Load
+[2021.12.02-12.19.07:882][  0]LocalizationService: Localization service is disabled
+[2021.12.02-12.19.08:561][  0]TimingProfiler: Initialize
+[2021.12.02-12.19.08:569][  0]TimingProfiler: OnSessionChanged
+[2021.12.02-12.19.08:570][  0]LoadingProfiler: Initialize
+[2021.12.02-12.19.08:570][  0]LoadingProfiler: OnSessionChanged
+[2021.12.02-12.19.08:570][  0]NetworkingProfiler: Initialize
+[2021.12.02-12.19.08:571][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.02-12.19.08:571][  0]MemoryProfiler: Initialize
+[2021.12.02-12.19.08:571][  0]MemoryProfiler: OnSessionChanged
+[2021.12.02-12.19.11:270][  0]LogFileCache: Scanning file cache for directory 'D:/IKO Tutorial/Udemy/ToonTanks/Content/' took 0.02s
+[2021.12.02-12.19.11:270][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.02-12.19.11:270][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.02-12.19.14:969][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.02-12.19.14:969][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.02-12.19.15:149][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.02-12.19.15:300][  0]SourceControl: Source control is disabled
+[2021.12.02-12.19.15:300][  0]LogUnrealEdMisc: Loading editor; pre map load, took 161.370
+[2021.12.02-12.19.15:326][  0]Cmd: MAP LOAD FILE="D:/IKO Tutorial/Udemy/ToonTanks/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.02-12.19.15:363][  0]LightingResults: New page: Lighting Build
+[2021.12.02-12.19.15:565][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-12.19.15:640][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-12.19.15:726][  0]MapCheck: New page: Map Check
+[2021.12.02-12.19.15:726][  0]LightingResults: New page: Lighting Build
+[2021.12.02-12.19.16:003][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.02-12.19.16:238][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.12.02-12.19.17:975][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2021.12.02-12.19.17:976][  0]LogAIModule: Creating AISystem for world Main
+[2021.12.02-12.19.18:600][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.02-12.19.18:738][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.12.02-12.19.18:762][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.02-12.19.18:770][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7.375ms to complete.
+[2021.12.02-12.19.18:770][  0]LogFileHelpers: Loading map 'Main' took 3.455
+[2021.12.02-12.19.19:923][  0]LogUnrealEdMisc: Total Editor Startup Time, took 165.994
+[2021.12.02-12.19.20:928][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-12.19.20:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-12.19.20:947][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-12.19.20:954][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-12.19.21:323][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0132 seconds. Added 3829 classes and 930 folders.
+[2021.12.02-12.19.21:496][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.12.02-12.19.21:665][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.02-12.19.21:665][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:665][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.02-12.19.21:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.12.02-12.19.21:699][  0]LogPakFile: OnPakFileMounted2Time == 0.033397
+[2021.12.02-12.19.21:748][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.02-12.19.21:748][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:748][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.02-12.19.21:748][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:748][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.12.02-12.19.21:748][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.12.02-12.19.21:763][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.02-12.19.21:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.02-12.19.21:763][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:763][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.12.02-12.19.21:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.12.02-12.19.21:783][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.02-12.19.21:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.02-12.19.21:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.12.02-12.19.21:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.12.02-12.19.21:798][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.02-12.19.21:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.02-12.19.21:798][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:798][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.12.02-12.19.21:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.12.02-12.19.21:806][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.02-12.19.21:806][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:806][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.02-12.19.21:806][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:806][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.12.02-12.19.21:806][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.12.02-12.19.21:813][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.02-12.19.21:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.02-12.19.21:814][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:814][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.12.02-12.19.21:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.12.02-12.19.21:827][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.02-12.19.21:827][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:827][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.02-12.19.21:827][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:827][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.12.02-12.19.21:827][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.12.02-12.19.21:847][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.02-12.19.21:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.02-12.19.21:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.12.02-12.19.21:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.12.02-12.19.21:867][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.02-12.19.21:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.02-12.19.21:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.12.02-12.19.21:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.12.02-12.19.21:874][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.02-12.19.21:874][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:874][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.02-12.19.21:874][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:874][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.12.02-12.19.21:874][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.12.02-12.19.21:883][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.02-12.19.21:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:883][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.02-12.19.21:883][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:883][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.12.02-12.19.21:883][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.12.02-12.19.21:897][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.02-12.19.21:898][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:898][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.02-12.19.21:898][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:898][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.12.02-12.19.21:898][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.12.02-12.19.21:905][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.02-12.19.21:905][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:905][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.02-12.19.21:905][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:905][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.12.02-12.19.21:905][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.12.02-12.19.21:916][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.02-12.19.21:916][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:916][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.02-12.19.21:916][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:916][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.12.02-12.19.21:916][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.12.02-12.19.21:927][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.02-12.19.21:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.02-12.19.21:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.12.02-12.19.21:927][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.12.02-12.19.21:947][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.02-12.19.21:948][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:948][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.02-12.19.21:948][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:948][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.12.02-12.19.21:948][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.12.02-12.19.21:957][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.02-12.19.21:957][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:957][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.02-12.19.21:957][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:957][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.12.02-12.19.21:957][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.12.02-12.19.21:966][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.02-12.19.21:966][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:966][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.02-12.19.21:966][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:966][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.12.02-12.19.21:966][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.12.02-12.19.21:978][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.02-12.19.21:978][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:978][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.02-12.19.21:978][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:978][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.12.02-12.19.21:978][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.12.02-12.19.21:986][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.02-12.19.21:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.02-12.19.21:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.12.02-12.19.21:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.12.02-12.19.21:995][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.02-12.19.21:995][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.21:995][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.02-12.19.21:995][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.21:995][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.12.02-12.19.21:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.12.02-12.19.22:017][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.02-12.19.22:017][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.22:017][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.02-12.19.22:017][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.22:017][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.12.02-12.19.22:017][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.12.02-12.19.22:026][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.02-12.19.22:026][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.22:026][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.02-12.19.22:026][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.22:026][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.12.02-12.19.22:026][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.12.02-12.19.22:036][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.02-12.19.22:036][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.22:036][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.02-12.19.22:036][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.22:036][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.12.02-12.19.22:036][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.12.02-12.19.22:066][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.02-12.19.22:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-12.19.22:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.02-12.19.22:066][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-12.19.22:066][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.12.02-12.19.22:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.12.02-12.19.23:207][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.02-12.19.23:388][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.12.02-12.19.27:021][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.12.02-12.19.27:441][  0]LogSlate: Took 0.019883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.02-12.19.27:489][  0]LogSlate: Took 0.020186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.02-12.19.27:551][  0]LogSlate: Took 0.036443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.02-12.19.28:465][  0]LogRenderer: Reallocating scene render targets to support 1208x608 Format 10 NumSamples 1 (Frame:1).
+[2021.12.02-12.19.29:733][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.12.02-12.19.29:734][  0]LogLoad: (Engine Initialization) Total time: 175.80 seconds
+[2021.12.02-12.19.29:734][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.02-12.19.30:676][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.02-12.19.31:237][  1]LogAssetRegistry: Asset discovery search completed in 86.1418 seconds
+[2021.12.02-12.19.31:459][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.012538 seconds (updated 0 objects)
+[2021.12.02-12.19.31:806][  2]LogSlate: Took 0.050819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.02-13.01.03:205][460]LogSlate: Took 0.026840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.02-13.01.08:929][778]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.02-13.01.08:953][778]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.02-13.01.11:882][123]LogContentBrowser: Attempting asset rename: NewFolder -> CameraShake
+[2021.12.02-13.01.11:903][123]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.02-13.01.25:712][623]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.02-13.01.34:705][623]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.02-13.01.34:866][623]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.02-13.01.34:875][623]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.02-13.01.38:098][987]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2021.12.02-13.01.38:800][987]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.02-13.01.45:353][640]LogContentBrowser: Attempting asset rename: NewBlueprint -> HitCameraShake
+[2021.12.02-13.01.45:536][640]LogMetaData: Removing '/Game/Blueprints/CameraShake/HitCameraShake.SKEL_HitCameraShake_C' ref from Metadata '/Game/Blueprints/CameraShake/NewBlueprint.PackageMetaData'
+[2021.12.02-13.01.45:536][640]LogMetaData: Removing '/Game/Blueprints/CameraShake/HitCameraShake.HitCameraShake_C' ref from Metadata '/Game/Blueprints/CameraShake/NewBlueprint.PackageMetaData'
+[2021.12.02-13.01.45:665][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraShake/HitCameraShake" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Content/Blueprints/CameraShake/HitCameraShake.uasset" SILENT=true
+[2021.12.02-13.01.45:933][640]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/HitCameraShake7F9AA4B2486C2145DAF1269C853F8C65.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Content/Blueprints/CameraShake/HitCameraShake.uasset'
+[2021.12.02-13.01.46:636][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.12.02-13.01.46:694][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.12.02-13.01.46:701][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.12.02-13.01.47:273][640]AssetCheck: New page: Asset Save: HitCameraShake
+[2021.12.02-13.01.47:273][640]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CameraShake/HitCameraShake.HitCameraShake
+[2021.12.02-13.01.48:122][726]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CameraShake/HitCameraShake.HitCameraShake
+[2021.12.02-13.01.49:651][726]LogBlueprintEditor: Perf: 0.8 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.12.02-13.01.49:651][726]LogBlueprintEditor: Perf: 0.5 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2021.12.02-13.01.51:178][726]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.12.02-13.01.56:488][726]LogSlate: Took 0.019495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.02-13.01.58:465][871]LogSlate: Window 'HitCameraShake' being destroyed
+[2021.12.02-13.04.00:497][564]BlueprintLog: New page: Compile HitCameraShake
+[2021.12.02-13.04.00:603][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.12.02-13.04.03:893][762]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.02-13.04.03:912][762]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.12.02-13.04.13:163][762]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.02-13.04.13:169][762]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.02-13.04.13:180][762]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.02-13.04.17:831][312]LogContentBrowser: Attempting asset rename: NewBlueprint -> DeathCameraShake
+[2021.12.02-13.04.17:834][312]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.02-13.04.19:152][465]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CameraShake/DeathCameraShake.DeathCameraShake
+[2021.12.02-13.05.37:271][389]BlueprintLog: New page: Compile HitCameraShake
+[2021.12.02-13.05.37:302][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.12.02-13.06.47:089][709]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.02-13.06.47:092][709]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.12.02-13.06.50:145][709]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.02-13.06.51:524][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.12.02-13.06.52:489][867]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.02-13.06.52:615][867]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.06.52:650][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-13.06.52:813][867]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/CameraShake/HitCameraShake.HitCameraShake
+[2021.12.02-13.06.56:740][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.12.02-13.06.56:772][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.12.02-13.06.56:799][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.12.02-13.07.23:554][232]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.02-13.07.23:560][232]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.02-13.07.23:572][232]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.02-13.07.27:879][749]LogContentBrowser: Attempting asset rename: NewBlueprint -> HitCameraShake
+[2021.12.02-13.07.27:883][749]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.02-13.07.29:581][949]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CameraShake/HitCameraShake.HitCameraShake
+[2021.12.02-13.07.34:634][508]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.02-13.07.34:657][508]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.02-13.08.01:689][719]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.08.01:689][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-13.08.04:046][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.12.02-13.08.04:881][990]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.02-13.08.04:957][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.12.02-13.08.14:729][149]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.02-13.08.14:735][149]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.02-13.08.14:747][149]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.02-13.08.19:135][676]LogContentBrowser: Attempting asset rename: NewBlueprint -> HitCameraShake
+[2021.12.02-13.08.19:139][676]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.02-13.08.20:382][820]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CameraShake/HitCameraShake.HitCameraShake
+[2021.12.02-13.08.39:811][ 91]BlueprintLog: New page: Compile HitCameraShake
+[2021.12.02-13.08.39:841][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.12.02-13.13.47:339][214]Candidate modules for hot reload:
+[2021.12.02-13.13.47:339][214]  ToonTanks
+[2021.12.02-13.13.47:375][214]Launching UnrealBuildTool... [E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,0481 ToonTanksEditor Win64 Development -Project="D:/IKO Tutorial/Udemy/ToonTanks/ToonTanks.uproject" "D:/IKO Tutorial/Udemy/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.02-13.13.47:453][214]Warning: Starting HotReload took  1.1s.
+[2021.12.02-13.20.50:888][667]CompilerResultsLog: New page: Compilation - Dec 3, 2021, 3:20:50 AM
+[2021.12.02-13.20.50:902][667]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.02-13.20.50:923][667]CompilerResultsLog:   Running UnrealHeaderTool "D:\IKO Tutorial\Udemy\ToonTanks\ToonTanks.uproject" "D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\eriko\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.02-13.20.50:923][667]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.02-13.20.50:923][667]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 65,7218747 seconds
+[2021.12.02-13.20.50:923][667]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.02-13.20.50:923][667]CompilerResultsLog: Using Visual Studio 2019 14.30.30705 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.02-13.20.50:923][667]CompilerResultsLog: Building 13 actions with 4 processes...
+[2021.12.02-13.20.50:923][667]CompilerResultsLog:   [1/13] BasePawn.cpp
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:    D:\IKO Tutorial\Udemy\ToonTanks\Source\ToonTanks\BasePawn.cpp(69) : error C2664: 'void APlayerController::ClientStartCameraShake(TSubclassOf<UCameraShakeBase>,float,ECameraShakePlaySpace,FRotator)': cannot convert argument 1 from 'TSubclassOf<UMatineeCameraShake>' to 'TSubclassOf<UCameraShakeBase>'
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:   D:\IKO Tutorial\Udemy\ToonTanks\Source\ToonTanks\BasePawn.cpp(69): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:   E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h(902): note: see declaration of 'APlayerController::ClientStartCameraShake'
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:   [2/13] Projectile.cpp
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:    D:\IKO Tutorial\Udemy\ToonTanks\Source\ToonTanks\Projectile.cpp(77) : error C2664: 'void APlayerController::ClientStartCameraShake(TSubclassOf<UCameraShakeBase>,float,ECameraShakePlaySpace,FRotator)': cannot convert argument 1 from 'TSubclassOf<UMatineeCameraShake>' to 'TSubclassOf<UCameraShakeBase>'
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:   D:\IKO Tutorial\Udemy\ToonTanks\Source\ToonTanks\Projectile.cpp(77): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:   E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h(902): note: see declaration of 'APlayerController::ClientStartCameraShake'
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:   [3/13] Tank.cpp
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:   [4/13] ToonTanksGameMode.cpp
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:   [5/13] Tower.cpp
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:   [6/13] Projectile.gen.cpp
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:    D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\Projectile.gen.cpp(30) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:    D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\Projectile.gen.cpp(30) : error C2146: syntax error: missing ';' before identifier 'UClass'
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:    D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\Projectile.gen.cpp(248) : error C2065: 'Z_Construct_UClass_UMatineeCameraShake_NoRegister': undeclared identifier
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:   [7/13] BasePawn.gen.cpp
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:    D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\BasePawn.gen.cpp(27) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:    D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\BasePawn.gen.cpp(27) : error C2146: syntax error: missing ';' before identifier 'UClass'
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:    D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\BasePawn.gen.cpp(176) : error C2065: 'Z_Construct_UClass_UMatineeCameraShake_NoRegister': undeclared identifier
+[2021.12.02-13.20.50:924][667]CompilerResultsLog:   [8/13] ToonTanks.init.gen.cpp
+[2021.12.02-13.20.50:925][667]CompilerResultsLog:   [9/13] Tower.gen.cpp
+[2021.12.02-13.20.50:925][667]CompilerResultsLog:   [10/13] Tank.gen.cpp
+[2021.12.02-13.20.50:944][667]LogMainFrame: MainFrame: Module compiling took 423.996 seconds
+[2021.12.02-13.20.51:050][667]Warning: HotReload failed, recompile failed
+[2021.12.02-13.20.54:817][761]LogSlate: Took 0.047491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.02-13.22.05:383][883]Candidate modules for hot reload:
+[2021.12.02-13.22.05:383][883]  ToonTanks
+[2021.12.02-13.22.05:383][883]Launching UnrealBuildTool... [E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,6122 ToonTanksEditor Win64 Development -Project="D:/IKO Tutorial/Udemy/ToonTanks/ToonTanks.uproject" "D:/IKO Tutorial/Udemy/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.02-13.22.05:389][883]Warning: Starting HotReload took  0.1s.
+[2021.12.02-13.24.11:023][683]CompilerResultsLog: New page: Compilation - Dec 3, 2021, 3:24:11 AM
+[2021.12.02-13.24.11:023][683]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.02-13.24.11:023][683]CompilerResultsLog:   Running UnrealHeaderTool "D:\IKO Tutorial\Udemy\ToonTanks\ToonTanks.uproject" "D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\eriko\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.02-13.24.11:023][683]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.02-13.24.11:023][683]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 13,4016506 seconds
+[2021.12.02-13.24.11:023][683]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.02-13.24.11:023][683]CompilerResultsLog: Using Visual Studio 2019 14.30.30705 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.02-13.24.11:023][683]CompilerResultsLog: Building 13 actions with 4 processes...
+[2021.12.02-13.24.11:023][683]CompilerResultsLog:   [1/13] BasePawn.cpp
+[2021.12.02-13.24.11:023][683]CompilerResultsLog:   [2/13] ToonTanksGameMode.cpp
+[2021.12.02-13.24.11:023][683]CompilerResultsLog:   [3/13] BasePawn.gen.cpp
+[2021.12.02-13.24.11:023][683]CompilerResultsLog:   [4/13] Projectile.gen.cpp
+[2021.12.02-13.24.11:023][683]CompilerResultsLog:   [5/13] Tank.cpp
+[2021.12.02-13.24.11:023][683]CompilerResultsLog:   [6/13] ToonTanks.init.gen.cpp
+[2021.12.02-13.24.11:023][683]CompilerResultsLog:   [7/13] Tower.cpp
+[2021.12.02-13.24.11:023][683]CompilerResultsLog:   [8/13] Tank.gen.cpp
+[2021.12.02-13.24.11:024][683]CompilerResultsLog:   [9/13] Tower.gen.cpp
+[2021.12.02-13.24.11:024][683]CompilerResultsLog:   [10/13] Projectile.cpp
+[2021.12.02-13.24.11:024][683]CompilerResultsLog:   [11/13] UE4Editor-ToonTanks-6122.lib
+[2021.12.02-13.24.11:024][683]CompilerResultsLog:      Creating library D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6122.lib and object D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6122.exp
+[2021.12.02-13.24.11:024][683]CompilerResultsLog:   [12/13] UE4Editor-ToonTanks-6122.dll
+[2021.12.02-13.24.11:024][683]CompilerResultsLog:      Creating library D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6122.suppressed.lib and object D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6122.suppressed.exp
+[2021.12.02-13.24.11:024][683]CompilerResultsLog:   [13/13] ToonTanksEditor.target
+[2021.12.02-13.24.11:024][683]CompilerResultsLog: Total time in Parallel executor: 109,66 seconds
+[2021.12.02-13.24.11:024][683]CompilerResultsLog: Total execution time: 125,46 seconds
+[2021.12.02-13.24.11:024][683]LogMainFrame: MainFrame: Module compiling took 125.668 seconds
+[2021.12.02-13.24.11:921][683]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.02-13.24.12:015][683]LogClass: Could not find existing class Projectile in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.02-13.24.12:015][683]LogClass: Function OnHit is new.
+[2021.12.02-13.24.12:015][683]LogClass: Could not find existing class Tank in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.02-13.24.12:063][683]LogClass: Could not find existing class Tower in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.02-13.24.12:195][683]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.12.02-13.24.12:425][683]LogHotReload: Re-instancing Projectile after hot-reload.
+[2021.12.02-13.24.12:578][683]LogHotReload: Re-instancing Tank after hot-reload.
+[2021.12.02-13.24.13:147][683]LogHotReload: Re-instancing Tower after hot-reload.
+[2021.12.02-13.24.13:253][683]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0022 seconds. Added 7 classes and 2 folders.
+[2021.12.02-13.24.13:455][683]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.12.02-13.24.13:920][683]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0295 seconds. Added 3829 classes and 930 folders.
+[2021.12.02-13.24.13:974][683]Display: HotReload took 128.7s.
+[2021.12.02-13.24.45:755][905]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/BP_Projectile.BP_Projectile
+[2021.12.02-13.24.52:787][295]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawn/BP_PawnTank.BP_PawnTank
+[2021.12.02-13.24.55:880][529]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.02-13.24.56:198][529]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.02-13.25.04:047][419]BlueprintLog: New page: Compile BP_PawnTank
+[2021.12.02-13.25.04:232][419]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2021.12.02-13.25.06:091][596]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.25.06:091][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-13.25.06:433][596]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/BP_Projectile.BP_Projectile
+[2021.12.02-13.25.08:016][720]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.02-13.25.08:041][720]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.02-13.25.09:970][926]BlueprintLog: New page: Compile BP_Projectile
+[2021.12.02-13.25.10:167][926]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.12.02-13.25.16:415][626]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.25.16:415][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-13.25.16:974][683]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.02-13.25.16:974][683]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.25.16:974][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-13.25.18:632][858]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.02-13.25.18:812][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.02-13.25.18:813][858]PIE: New page: PIE session: Main (Dec 3, 2021, 3:25:18 AM)
+[2021.12.02-13.25.18:900][858]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.02-13.25.18:932][858]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.02-13.25.18:951][858]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.12.02-13.25.19:161][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.198709s)
+[2021.12.02-13.25.19:241][858]LogAIModule: Creating AISystem for world Main
+[2021.12.02-13.25.19:296][858]LogPlayLevel: PIE: World Init took: (0.134818s)
+[2021.12.02-13.25.19:296][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.345826s)
+[2021.12.02-13.25.19:337][858]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.12.02-13.25.19:359][858]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.02-13.25.19:389][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.02-13.25.19:389][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.02-13.25.19:390][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.02-13.25.19:390][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.02-13.25.19:390][858]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.02-13.25.19:390][858]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.02-13.25.19:390][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.02-13.25.19:398][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.02-13.25.19:419][858]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.02-13.25.19:419][858]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.02-13.25.19:419][858]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.02-13.25.19:419][858]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.02-13.25.19:472][858]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.02-13.25.19:472][858]LogAudioMixer: Display: 1: FrontRight
+[2021.12.02-13.25.19:539][858]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2021.12.02-13.25.19:559][858]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.02-13.25.19:559][858]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.02-13.25.19:568][858]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.02-13.25.19:570][858]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.02-13.25.19:570][858]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.02-13.25.19:570][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.02-13.25.19:572][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.02-13.25.19:572][858]LogInit: FAudioDevice initialized.
+[2021.12.02-13.25.19:572][858]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.02-13.25.19:572][858]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2021.12.02-13.25.20:329][858]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2021.12.02-13.25.20:477][858]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.12.02-20.25.20
+[2021.12.02-13.25.20:566][858]LogWorld: Bringing up level for play took: 0.100271
+[2021.12.02-13.25.20:669][858]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.12.02-13.25.20:977][858]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.12.02-13.25.21:093][858]PIE: Server logged in
+[2021.12.02-13.25.21:110][858]PIE: Play in editor total start time 2.408 seconds.
+[2021.12.02-13.25.28:635][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-13.25.28:635][578]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.12.02-13.25.28:672][578]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.25.28:682][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-13.25.28:719][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.02-13.25.28:738][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-13.25.28:782][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-13.25.28:806][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-13.25.28:807][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-13.25.28:946][578]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2021.12.02-13.25.29:012][579]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.12.02-13.25.54:398][709]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2021.12.02-13.25.54:453][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.12.02-13.25.54:615][709]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Main_Auto15580953244DC0EEA6D35888626822A85.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2021.12.02-13.25.54:625][709]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.360
+[2021.12.02-13.25.54:633][709]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.360
+[2021.12.02-13.25.54:634][709]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawn/BP_PawnTank] ([2] browsable assets)...
+[2021.12.02-13.25.54:703][709]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawn/BP_PawnTank.BP_PawnTank]
+[2021.12.02-13.25.54:763][709]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawn/BP_PawnTank.BP_PawnTank_C]
+[2021.12.02-13.25.54:763][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawn/BP_PawnTank]
+[2021.12.02-13.25.54:763][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawn/BP_PawnTank" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawn/BP_PawnTank_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.12.02-13.25.54:873][709]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/BP_PawnTank_Auto1AD142CC941A9626A256E3997BDF9503A.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawn/BP_PawnTank_Auto1.uasset'
+[2021.12.02-13.25.54:895][709]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/BP_Projectile] ([2] browsable assets)...
+[2021.12.02-13.25.54:961][709]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/BP_Projectile.BP_Projectile]
+[2021.12.02-13.25.55:015][709]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Actors/BP_Projectile.BP_Projectile_C]
+[2021.12.02-13.25.55:015][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Projectile]
+[2021.12.02-13.25.55:015][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Projectile" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Blueprints/Actors/BP_Projectile_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.12.02-13.25.55:032][709]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/BP_Projectile_Auto117EC4C5047D959807A0B4EA8F03733C4.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Blueprints/Actors/BP_Projectile_Auto1.uasset'
+[2021.12.02-13.25.55:076][709]LogFileHelpers: Auto-saving content packages took 0.443
+[2021.12.02-13.27.16:482][ 33]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawn/BP_PawnTank.BP_PawnTank
+[2021.12.02-13.27.17:514][ 66]LogSlate: Took 0.031888 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.02-13.27.25:708][943]BlueprintLog: New page: Compile BP_PawnTank
+[2021.12.02-13.27.25:803][943]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.12.02-13.28.22:224][992]BlueprintLog: New page: Compile BP_PawnTank
+[2021.12.02-13.28.22:304][992]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.12.02-13.31.08:615][766]Candidate modules for hot reload:
+[2021.12.02-13.31.08:615][766]  ToonTanks
+[2021.12.02-13.31.08:615][766]Launching UnrealBuildTool... [E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,4113 ToonTanksEditor Win64 Development -Project="D:/IKO Tutorial/Udemy/ToonTanks/ToonTanks.uproject" "D:/IKO Tutorial/Udemy/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.02-13.31.08:677][766]Warning: Starting HotReload took  0.2s.
+[2021.12.02-13.35.55:713][720]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2021.12.02-13.35.55:720][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.12.02-13.35.55:824][720]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Main_Auto2A1225204493B4576F88EBC81F1257F86.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2021.12.02-13.35.55:828][720]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.228
+[2021.12.02-13.35.55:828][720]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.228
+[2021.12.02-13.35.55:831][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawn/BP_PawnTank] ([2] browsable assets)...
+[2021.12.02-13.35.55:857][720]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawn/BP_PawnTank.BP_PawnTank]
+[2021.12.02-13.35.55:857][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawn/BP_PawnTank]
+[2021.12.02-13.35.55:857][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawn/BP_PawnTank" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawn/BP_PawnTank_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.12.02-13.35.55:889][720]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/BP_PawnTank_Auto2DEC921CD41A74233D38BCD8CE7058DCE.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawn/BP_PawnTank_Auto2.uasset'
+[2021.12.02-13.35.55:977][720]LogFileHelpers: Auto-saving content packages took 0.148
+[2021.12.02-13.37.24:807][984]CompilerResultsLog: New page: Compilation - Dec 3, 2021, 3:37:24 AM
+[2021.12.02-13.37.24:808][984]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.02-13.37.24:808][984]CompilerResultsLog:   Running UnrealHeaderTool "D:\IKO Tutorial\Udemy\ToonTanks\ToonTanks.uproject" "D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\eriko\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.02-13.37.24:808][984]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.02-13.37.24:808][984]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 27,6450519 seconds
+[2021.12.02-13.37.24:808][984]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.02-13.37.24:808][984]CompilerResultsLog: Using Visual Studio 2019 14.30.30705 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.02-13.37.24:808][984]CompilerResultsLog: Building 9 actions with 4 processes...
+[2021.12.02-13.37.24:808][984]CompilerResultsLog:   [1/9] BasePawn.cpp
+[2021.12.02-13.37.24:808][984]CompilerResultsLog:   [2/9] Tank.cpp
+[2021.12.02-13.37.24:808][984]CompilerResultsLog:   [3/9] ToonTanksGameMode.cpp
+[2021.12.02-13.37.24:808][984]CompilerResultsLog:   [4/9] Projectile.cpp
+[2021.12.02-13.37.24:808][984]CompilerResultsLog:   [5/9] Tower.cpp
+[2021.12.02-13.37.24:809][984]CompilerResultsLog:    D:\IKO Tutorial\Udemy\ToonTanks\Source\ToonTanks\Tower.cpp(27) : error C2248: 'ATank::bAlive': cannot access private member declared in class 'ATank'
+[2021.12.02-13.37.24:809][984]CompilerResultsLog:   D:\IKO Tutorial\Udemy\ToonTanks\Source\ToonTanks\Tank.h(51): note: see declaration of 'ATank::bAlive'
+[2021.12.02-13.37.24:809][984]CompilerResultsLog:   D:\IKO Tutorial\Udemy\ToonTanks\Source\ToonTanks\Tank.h(13): note: see declaration of 'ATank'
+[2021.12.02-13.37.24:809][984]CompilerResultsLog:   [6/9] Tank.gen.cpp
+[2021.12.02-13.37.24:810][984]LogMainFrame: MainFrame: Module compiling took 376.198 seconds
+[2021.12.02-13.37.24:810][984]Warning: HotReload failed, recompile failed
+[2021.12.02-13.38.38:095][  7]Candidate modules for hot reload:
+[2021.12.02-13.38.38:095][  7]  ToonTanks
+[2021.12.02-13.38.38:095][  7]Launching UnrealBuildTool... [E:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,7045 ToonTanksEditor Win64 Development -Project="D:/IKO Tutorial/Udemy/ToonTanks/ToonTanks.uproject" "D:/IKO Tutorial/Udemy/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.02-13.38.38:607][  7]Warning: Starting HotReload took  0.6s.
+[2021.12.02-13.43.19:213][264]CompilerResultsLog: New page: Compilation - Dec 3, 2021, 3:43:19 AM
+[2021.12.02-13.43.19:213][264]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.02-13.43.19:213][264]CompilerResultsLog:   Running UnrealHeaderTool "D:\IKO Tutorial\Udemy\ToonTanks\ToonTanks.uproject" "D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\eriko\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.02-13.43.19:213][264]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.02-13.43.19:213][264]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 26,5556875 seconds
+[2021.12.02-13.43.19:213][264]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.02-13.43.19:213][264]CompilerResultsLog: Using Visual Studio 2019 14.30.30705 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.02-13.43.19:213][264]CompilerResultsLog: Building 7 actions with 4 processes...
+[2021.12.02-13.43.19:213][264]CompilerResultsLog:   [1/7] Tower.cpp
+[2021.12.02-13.43.19:213][264]CompilerResultsLog:   [2/7] ToonTanksGameMode.cpp
+[2021.12.02-13.43.19:213][264]CompilerResultsLog:   [3/7] Tank.cpp
+[2021.12.02-13.43.19:214][264]CompilerResultsLog:   [4/7] Tank.gen.cpp
+[2021.12.02-13.43.19:214][264]CompilerResultsLog:   [5/7] UE4Editor-ToonTanks-7045.lib
+[2021.12.02-13.43.19:214][264]CompilerResultsLog:      Creating library D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7045.lib and object D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7045.exp
+[2021.12.02-13.43.19:214][264]CompilerResultsLog:   [6/7] UE4Editor-ToonTanks-7045.dll
+[2021.12.02-13.43.19:214][264]CompilerResultsLog:      Creating library D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7045.suppressed.lib and object D:\IKO Tutorial\Udemy\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7045.suppressed.exp
+[2021.12.02-13.43.19:214][264]CompilerResultsLog:   [7/7] ToonTanksEditor.target
+[2021.12.02-13.43.19:214][264]CompilerResultsLog: Total time in Parallel executor: 248,33 seconds
+[2021.12.02-13.43.19:215][264]CompilerResultsLog: Total execution time: 280,37 seconds
+[2021.12.02-13.43.19:215][264]LogMainFrame: MainFrame: Module compiling took 281.124 seconds
+[2021.12.02-13.43.19:340][264]LogClass: Could not find existing class Tank in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.02-13.43.19:374][264]LogHotReload: Re-instancing Tank after hot-reload.
+[2021.12.02-13.43.19:479][264]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0083 seconds. Added 7 classes and 2 folders.
+[2021.12.02-13.43.19:521][264]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2021.12.02-13.43.19:967][264]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0278 seconds. Added 3829 classes and 930 folders.
+[2021.12.02-13.43.19:967][264]Display: HotReload took 281.9s.
+[2021.12.02-13.46.01:923][539]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2021.12.02-13.46.01:986][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.02-13.46.02:049][539]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.12.02-13.46.02:087][539]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/Main9F6FE10A4A532918C01662808F965F6E.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Content/Maps/Main.umap'
+[2021.12.02-13.46.02:130][539]LogFileHelpers: Saving map 'Main' took 0.145
+[2021.12.02-13.46.02:145][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawn/BP_PawnTank" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Content/Blueprints/Pawn/BP_PawnTank.uasset" SILENT=true
+[2021.12.02-13.46.02:162][539]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/BP_PawnTankEC422AA54619B90C981C55A04D4BD12E.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Content/Blueprints/Pawn/BP_PawnTank.uasset'
+[2021.12.02-13.46.02:163][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Projectile" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset" SILENT=true
+[2021.12.02-13.46.02:172][539]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/BP_ProjectileB105B79C4E73F5A10C1443BABC3D14BE.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset'
+[2021.12.02-13.46.02:174][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraShake/DeathCameraShake" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Content/Blueprints/CameraShake/DeathCameraShake.uasset" SILENT=true
+[2021.12.02-13.46.02:177][539]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/DeathCameraShakeB86A8A79400BFB0D3769F1B09836D67F.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Content/Blueprints/CameraShake/DeathCameraShake.uasset'
+[2021.12.02-13.46.02:179][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraShake/HitCameraShake" FILE="D:/IKO Tutorial/Udemy/ToonTanks/Content/Blueprints/CameraShake/HitCameraShake.uasset" SILENT=true
+[2021.12.02-13.46.02:181][539]LogSavePackage: Moving 'D:/IKO Tutorial/Udemy/ToonTanks/Saved/HitCameraShakeCB54ACA247D6F90D114542985829672E.tmp' to 'D:/IKO Tutorial/Udemy/ToonTanks/Content/Blueprints/CameraShake/HitCameraShake.uasset'
+[2021.12.02-13.46.02:213][539]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-13.46.02:214][539]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Projectile.BP_Projectile
+[2021.12.02-13.46.02:214][539]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawn/BP_PawnTank.BP_PawnTank
+[2021.12.02-13.46.02:214][539]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.12.02-13.46.02:214][539]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CameraShake/HitCameraShake.HitCameraShake
+[2021.12.02-13.46.02:214][539]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CameraShake/DeathCameraShake.DeathCameraShake
+[2021.12.02-13.46.05:235][890]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2021.12.02-13.46.05:321][890]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.46.05:321][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-13.46.05:718][890]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.46.05:718][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-13.46.05:912][890]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.46.05:912][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-13.46.06:148][890]LogSlate: Window 'ToonTanks - Unreal Editor' being destroyed
+[2021.12.02-13.46.07:806][891]Cmd: QUIT_EDITOR
+[2021.12.02-13.46.07:826][891]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.12.02-13.46.07:990][891]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.12.02-13.46.08:962][891]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.12.02-13.46.08:962][891]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.12.02-13.46.08:962][891]LogAudio: Display: Audio Device unregistered from world 'Main'.
+[2021.12.02-13.46.08:969][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-13.46.08:989][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-13.46.09:087][891]LogAudio: Display: Audio Device Manager Shutdown
+[2021.12.02-13.46.09:097][891]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.02-13.46.09:169][891]LogExit: Preparing to exit.
+[2021.12.02-13.46.09:982][891]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2021.12.02-13.46.11:323][891]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.46.11:328][891]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.46.11:334][891]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.46.11:339][891]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.46.11:343][891]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.46.11:348][891]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.46.11:353][891]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.46.11:815][891]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.12.02-13.46.12:502][891]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-13.46.12:545][891]LogExit: Editor shut down
+[2021.12.02-13.46.12:560][891]LogExit: Transaction tracking system shut down
+[2021.12.02-13.46.17:259][891]LogExit: Object subsystem successfully closed.
+[2021.12.02-13.46.17:288][891]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.02-13.46.17:288][891]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2021.12.02-13.46.17:288][891]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2021.12.02-13.46.17:300][891]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2021.12.02-13.46.17:300][891]LogShaderCompilers: Display: ================================================
